@@ -1,0 +1,3792 @@
+[
+    {
+        "name": "1 More",
+        "phones": [
+            {
+                "index": 0,
+                "name": "Crystal Piston",
+                "file": "1 More Crystal Piston"
+            },
+            {
+                "index": 0,
+                "name": "MK801",
+                "file": "1 More MK801"
+            },
+            {
+                "index": 0,
+                "name": "Multi Unit Earphone",
+                "file": "1 More Multi Unit Earphone"
+            },
+            {
+                "index": 0,
+                "name": "Triple Driver Over-Ear",
+                "file": "1 More Triple Driver Over-Ear"
+            }
+        ]
+    },
+    {
+        "name": "A-Audio",
+        "phones": [
+            {
+                "index": 2,
+                "name": "Elite ANC Active",
+                "file": "A-Audio Elite ANC Active"
+            },
+            {
+                "index": 2,
+                "name": "Elite Bass Mode",
+                "file": "A-Audio Elite Bass Mode"
+            },
+            {
+                "index": 2,
+                "name": "Elite Passive",
+                "file": "A-Audio Elite Passive"
+            }
+        ]
+    },
+    {
+        "name": "AKG",
+        "phones": [
+            {
+                "index": 4,
+                "name": "K1000",
+                "file": "AKG K1000"
+            },
+            {
+                "index": 4,
+                "name": "K167 Tiesto",
+                "file": "AKG K167 Tiesto"
+            },
+            {
+                "index": 4,
+                "name": "K240 DF",
+                "file": "AKG K240 DF"
+            },
+            {
+                "index": 4,
+                "name": "K240 Monitor",
+                "file": "AKG K240 Monitor"
+            },
+            {
+                "index": 4,
+                "name": "K240 Sextett",
+                "file": "AKG K240 Sextett"
+            },
+            {
+                "index": 4,
+                "name": "K267 Tiesto Club Setting",
+                "file": "AKG K267 Tiesto Club Setting"
+            },
+            {
+                "index": 4,
+                "name": "K267 Tiesto Stage Setting",
+                "file": "AKG K267 Tiesto Stage Setting"
+            },
+            {
+                "index": 4,
+                "name": "K267 Tiesto Studio Setting",
+                "file": "AKG K267 Tiesto Studio Setting"
+            },
+            {
+                "index": 4,
+                "name": "K271 MkII",
+                "file": "AKG K271 MkII"
+            },
+            {
+                "index": 4,
+                "name": "K272HD",
+                "file": "AKG K272HD"
+            },
+            {
+                "index": 4,
+                "name": "K340 Stock",
+                "file": "AKG K340 Stock"
+            },
+            {
+                "index": 4,
+                "name": "K340 modified by Morphsci A",
+                "file": "AKG K340 modified by Morphsci A"
+            },
+            {
+                "index": 4,
+                "name": "K340 modified by Morphsi B",
+                "file": "AKG K340 modified by Morphsi B"
+            },
+            {
+                "index": 4,
+                "name": "K450",
+                "file": "AKG K450"
+            },
+            {
+                "index": 4,
+                "name": "K501",
+                "file": "AKG K501"
+            },
+            {
+                "index": 4,
+                "name": "K550",
+                "file": "AKG K550"
+            },
+            {
+                "index": 4,
+                "name": "K581LE",
+                "file": "AKG K581LE"
+            },
+            {
+                "index": 4,
+                "name": "K601 2007",
+                "file": "AKG K601 2007"
+            },
+            {
+                "index": 4,
+                "name": "K612",
+                "file": "AKG K612"
+            },
+            {
+                "index": 4,
+                "name": "K619",
+                "file": "AKG K619"
+            },
+            {
+                "index": 4,
+                "name": "K671 Tiesto",
+                "file": "AKG K671 Tiesto"
+            },
+            {
+                "index": 4,
+                "name": "K701",
+                "file": "AKG K701"
+            },
+            {
+                "index": 4,
+                "name": "K701 Sample B",
+                "file": "AKG K701 Sample B"
+            },
+            {
+                "index": 4,
+                "name": "K702 65th Anv Ed 2014",
+                "file": "AKG K702 65th Anv Ed 2014"
+            },
+            {
+                "index": 4,
+                "name": "K702",
+                "file": "AKG K702"
+            },
+            {
+                "index": 4,
+                "name": "K712",
+                "file": "AKG K712"
+            },
+            {
+                "index": 4,
+                "name": "K7XX",
+                "file": "AKG K7XX"
+            },
+            {
+                "index": 4,
+                "name": "K812 sn001130",
+                "file": "AKG K812 sn001130"
+            },
+            {
+                "index": 4,
+                "name": "K812 sn002100",
+                "file": "AKG K812 sn002100"
+            },
+            {
+                "index": 4,
+                "name": "K81DJ",
+                "file": "AKG K81DJ"
+            },
+            {
+                "index": 4,
+                "name": "N60NC Bluetooth",
+                "file": "AKG N60NC Bluetooth"
+            },
+            {
+                "index": 4,
+                "name": "N60NC Wired NC On",
+                "file": "AKG N60NC Wired NC On"
+            },
+            {
+                "index": 4,
+                "name": "N60NC Wired Passive",
+                "file": "AKG N60NC Wired Passive"
+            },
+            {
+                "index": 4,
+                "name": "N90Q Nominal",
+                "file": "AKG N90Q Nominal"
+            },
+            {
+                "index": 4,
+                "name": "Q701 modified by MarcoGV Bass Mod",
+                "file": "AKG Q701 modified by MarcoGV Bass Mod"
+            },
+            {
+                "index": 4,
+                "name": "Quincy Jones Q460",
+                "file": "AKG Quincy Jones Q460"
+            },
+            {
+                "index": 4,
+                "name": "Quincy Jones Q701",
+                "file": "AKG Quincy Jones Q701"
+            }
+        ]
+    },
+    {
+        "name": "Abyss",
+        "phones": [
+            {
+                "index": 6,
+                "name": "AB1266",
+                "file": "Abyss AB1266"
+            }
+        ]
+    },
+    {
+        "name": "Accidentally Extraordinary",
+        "phones": [
+            {
+                "index": 7,
+                "name": "51st Studios",
+                "file": "Accidentally Extraordinary 51st Studios"
+            }
+        ]
+    },
+    {
+        "name": "Acoustic Research",
+        "phones": [
+            {
+                "index": 8,
+                "name": "AR-H1",
+                "file": "Acoustic Research AR-H1"
+            }
+        ]
+    },
+    {
+        "name": "Advanced",
+        "phones": [
+            {
+                "index": 9,
+                "name": "Alpha Deep Pads",
+                "file": "Advanced Alpha Deep Pads"
+            },
+            {
+                "index": 9,
+                "name": "Alpha Shallow Pads",
+                "file": "Advanced Alpha Shallow Pads"
+            }
+        ]
+    },
+    {
+        "name": "Aedle",
+        "phones": [
+            {
+                "index": 10,
+                "name": "VK1",
+                "file": "Aedle VK1"
+            }
+        ]
+    },
+    {
+        "name": "Aiaiai",
+        "phones": [
+            {
+                "index": 12,
+                "name": "TMA-1",
+                "file": "Aiaiai TMA-1"
+            },
+            {
+                "index": 12,
+                "name": "TMA-1 Studio",
+                "file": "Aiaiai TMA-1 Studio"
+            }
+        ]
+    },
+    {
+        "name": "Air",
+        "phones": [
+            {
+                "index": 13,
+                "name": "Meelectronics -Fi Matrix2 AF62 Wired",
+                "file": "Meelectronics Air-Fi Matrix2 AF62 Wired"
+            },
+            {
+                "index": 13,
+                "name": "Meelectronics Fi Matrix2 AF62 Bluetooth",
+                "file": "Meelectronics AirFi Matrix2 AF62 Bluetooth"
+            }
+        ]
+    },
+    {
+        "name": "Akai",
+        "phones": [
+            {
+                "index": 14,
+                "name": "MPC",
+                "file": "Akai MPC"
+            }
+        ]
+    },
+    {
+        "name": "Alpha Design Labs",
+        "phones": [
+            {
+                "index": 16,
+                "name": "H128",
+                "file": "Alpha Design Labs H128"
+            }
+        ]
+    },
+    {
+        "name": "Audeze",
+        "phones": [
+            {
+                "index": 24,
+                "name": "EL-8 Closed",
+                "file": "Audeze EL-8 Closed"
+            },
+            {
+                "index": 24,
+                "name": "EL-8 Open",
+                "file": "Audeze EL-8 Open"
+            },
+            {
+                "index": 24,
+                "name": "LCD-1",
+                "file": "Audeze LCD-1"
+            },
+            {
+                "index": 24,
+                "name": "LCD-2 Classic",
+                "file": "Audeze LCD-2 Classic"
+            },
+            {
+                "index": 24,
+                "name": "LCD-2",
+                "file": "Audeze LCD-2"
+            },
+            {
+                "index": 24,
+                "name": "LCD-2 Rev 2",
+                "file": "Audeze LCD-2 Rev 2"
+            },
+            {
+                "index": 24,
+                "name": "LCD-2 sn5312123",
+                "file": "Audeze LCD-2 sn5312123"
+            },
+            {
+                "index": 24,
+                "name": "LCD-2 sn53211704 circa 2012",
+                "file": "Audeze LCD-2 sn53211704 circa 2012"
+            },
+            {
+                "index": 24,
+                "name": "LCD-2 sn5325928",
+                "file": "Audeze LCD-2 sn5325928"
+            },
+            {
+                "index": 24,
+                "name": "LCD-2 sn5423021 Fazer 2014",
+                "file": "Audeze LCD-2 sn5423021 Fazer 2014"
+            },
+            {
+                "index": 24,
+                "name": "LCD-3 sn2312260",
+                "file": "Audeze LCD-3 sn2312260"
+            },
+            {
+                "index": 24,
+                "name": "LCD-3 sn2312341",
+                "file": "Audeze LCD-3 sn2312341"
+            },
+            {
+                "index": 24,
+                "name": "LCD-3 sn2312454",
+                "file": "Audeze LCD-3 sn2312454"
+            },
+            {
+                "index": 24,
+                "name": "LCD-3 sn2312488",
+                "file": "Audeze LCD-3 sn2312488"
+            },
+            {
+                "index": 24,
+                "name": "LCD-3 sn2613375 circa 2012",
+                "file": "Audeze LCD-3 sn2613375 circa 2012"
+            },
+            {
+                "index": 24,
+                "name": "LCD-3F sn2715432 2014",
+                "file": "Audeze LCD-3F sn2715432 2014"
+            },
+            {
+                "index": 24,
+                "name": "LCD-3F sn2717210",
+                "file": "Audeze LCD-3F sn2717210"
+            },
+            {
+                "index": 24,
+                "name": "LCD-4",
+                "file": "Audeze LCD-4"
+            },
+            {
+                "index": 24,
+                "name": "LCD-4 sn4142923 Katz",
+                "file": "Audeze LCD-4 sn4142923 Katz"
+            },
+            {
+                "index": 24,
+                "name": "LCD-4 sn4142923 Katz Sample 2",
+                "file": "Audeze LCD-4 sn4142923 Katz Sample 2"
+            },
+            {
+                "index": 24,
+                "name": "LCD-4 sn4142923 Katz Sample 3",
+                "file": "Audeze LCD-4 sn4142923 Katz Sample 3"
+            },
+            {
+                "index": 24,
+                "name": "LCD-4 sn4142948",
+                "file": "Audeze LCD-4 sn4142948"
+            },
+            {
+                "index": 24,
+                "name": "LCD-4 sn4143011",
+                "file": "Audeze LCD-4 sn4143011"
+            },
+            {
+                "index": 24,
+                "name": "LCD-X Sample 3",
+                "file": "Audeze LCD-X Sample 3"
+            },
+            {
+                "index": 24,
+                "name": "LCD-X sn7454971",
+                "file": "Audeze LCD-X sn7454971"
+            },
+            {
+                "index": 24,
+                "name": "LCD-X sn7456406",
+                "file": "Audeze LCD-X sn7456406"
+            },
+            {
+                "index": 24,
+                "name": "LCD-XC",
+                "file": "Audeze LCD-XC"
+            },
+            {
+                "index": 24,
+                "name": "LCD-XC Sample 2",
+                "file": "Audeze LCD-XC Sample 2"
+            },
+            {
+                "index": 24,
+                "name": "SINE",
+                "file": "Audeze SINE"
+            },
+            {
+                "index": 24,
+                "name": "Sine DX",
+                "file": "Audeze Sine DX"
+            },
+            {
+                "index": 24,
+                "name": "iSine 20",
+                "file": "Audeze iSine 20"
+            }
+        ]
+    },
+    {
+        "name": "Audio Technica",
+        "phones": [
+            {
+                "index": 25,
+                "name": "ATH-A1000X",
+                "file": "Audio Technica ATH-A1000X"
+            },
+            {
+                "index": 25,
+                "name": "ATH-A2000Z",
+                "file": "Audio Technica ATH-A2000Z"
+            },
+            {
+                "index": 25,
+                "name": "ATH-A900X",
+                "file": "Audio Technica ATH-A900X"
+            },
+            {
+                "index": 25,
+                "name": "ATH-AD2000X",
+                "file": "Audio Technica ATH-AD2000X"
+            },
+            {
+                "index": 25,
+                "name": "ATH-AD500",
+                "file": "Audio Technica ATH-AD500"
+            },
+            {
+                "index": 25,
+                "name": "ATH-AD700",
+                "file": "Audio Technica ATH-AD700"
+            },
+            {
+                "index": 25,
+                "name": "ATH-AD900",
+                "file": "Audio Technica ATH-AD900"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ANC50iS ANC Active",
+                "file": "Audio Technica ATH-ANC50iS ANC Active"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ANC50iS Passive",
+                "file": "Audio Technica ATH-ANC50iS Passive"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ANC7b",
+                "file": "Audio Technica ATH-ANC7b"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ANC9",
+                "file": "Audio Technica ATH-ANC9"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ES10 modified by BillP",
+                "file": "Audio Technica ATH-ES10 modified by BillP"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ES55",
+                "file": "Audio Technica ATH-ES55"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ES55 Sample 2",
+                "file": "Audio Technica ATH-ES55 Sample 2"
+            },
+            {
+                "index": 25,
+                "name": "ATH-ESW9",
+                "file": "Audio Technica ATH-ESW9"
+            },
+            {
+                "index": 25,
+                "name": "ATH-FC700",
+                "file": "Audio Technica ATH-FC700"
+            },
+            {
+                "index": 25,
+                "name": "ATH-M10",
+                "file": "Audio Technica ATH-M10"
+            },
+            {
+                "index": 25,
+                "name": "ATH-M50 B2012",
+                "file": "Audio Technica ATH-M50 B2012"
+            },
+            {
+                "index": 25,
+                "name": "ATH-M50",
+                "file": "Audio Technica ATH-M50"
+            },
+            {
+                "index": 25,
+                "name": "ATH-M50x",
+                "file": "Audio Technica ATH-M50x"
+            },
+            {
+                "index": 25,
+                "name": "ATH-M70x",
+                "file": "Audio Technica ATH-M70x"
+            },
+            {
+                "index": 25,
+                "name": "ATH-MSR7",
+                "file": "Audio Technica ATH-MSR7"
+            },
+            {
+                "index": 25,
+                "name": "ATH-MSR7NC ANC Active",
+                "file": "Audio Technica ATH-MSR7NC ANC Active"
+            },
+            {
+                "index": 25,
+                "name": "ATH-MSR7NC Passive",
+                "file": "Audio Technica ATH-MSR7NC Passive"
+            },
+            {
+                "index": 25,
+                "name": "ATH-R70x",
+                "file": "Audio Technica ATH-R70x"
+            },
+            {
+                "index": 25,
+                "name": "ATH-W1000X",
+                "file": "Audio Technica ATH-W1000X"
+            },
+            {
+                "index": 25,
+                "name": "ATH-W5000 2013",
+                "file": "Audio Technica ATH-W5000 2013"
+            },
+            {
+                "index": 25,
+                "name": "ATH-W5000",
+                "file": "Audio Technica ATH-W5000"
+            },
+            {
+                "index": 25,
+                "name": "ATH-WS55",
+                "file": "Audio Technica ATH-WS55"
+            },
+            {
+                "index": 25,
+                "name": "ATH-WS99",
+                "file": "Audio Technica ATH-WS99"
+            }
+        ]
+    },
+    {
+        "name": "Audio Zenith",
+        "phones": [
+            {
+                "index": 26,
+                "name": "PMx2",
+                "file": "Audio Zenith PMx2"
+            }
+        ]
+    },
+    {
+        "name": "AudioQuest",
+        "phones": [
+            {
+                "index": 27,
+                "name": "NightHawk 2015",
+                "file": "AudioQuest NightHawk 2015"
+            },
+            {
+                "index": 27,
+                "name": "NightHawk Stock Pads",
+                "file": "AudioQuest NightHawk Stock Pads"
+            },
+            {
+                "index": 27,
+                "name": "NightOwl Stock Pads",
+                "file": "AudioQuest NightOwl Stock Pads"
+            }
+        ]
+    },
+    {
+        "name": "Aurex",
+        "phones": [
+            {
+                "index": 29,
+                "name": "HR-V9",
+                "file": "Aurex HR-V9"
+            }
+        ]
+    },
+    {
+        "name": "BKHC",
+        "phones": [
+            {
+                "index": 33,
+                "name": "BK9",
+                "file": "BKHC BK9"
+            }
+        ]
+    },
+    {
+        "name": "Bang & Olufsen",
+        "phones": [
+            {
+                "index": 34,
+                "name": "H6 2nd Gen",
+                "file": "Bang & Olufsen H6 2nd Gen"
+            },
+            {
+                "index": 34,
+                "name": "H6",
+                "file": "Bang & Olufsen H6"
+            }
+        ]
+    },
+    {
+        "name": "Beats",
+        "phones": [
+            {
+                "index": 35,
+                "name": "Mixr 2014",
+                "file": "Beats Mixr 2014"
+            },
+            {
+                "index": 35,
+                "name": "Powerbeats 2 Bluetooth",
+                "file": "Beats Powerbeats 2 Bluetooth"
+            },
+            {
+                "index": 35,
+                "name": "Solo2 2014",
+                "file": "Beats Solo2 2014"
+            },
+            {
+                "index": 35,
+                "name": "Solo3 Bluetooth",
+                "file": "Beats Solo3 Bluetooth"
+            },
+            {
+                "index": 35,
+                "name": "Solo3 Wired",
+                "file": "Beats Solo3 Wired"
+            },
+            {
+                "index": 35,
+                "name": "Studio 2 Bluetooth",
+                "file": "Beats Studio 2 Bluetooth"
+            },
+            {
+                "index": 35,
+                "name": "Studio2 2014",
+                "file": "Beats Studio2 2014"
+            }
+        ]
+    },
+    {
+        "name": "Behringer",
+        "phones": [
+            {
+                "index": 36,
+                "name": "HPS5000",
+                "file": "Behringer HPS5000"
+            }
+        ]
+    },
+    {
+        "name": "Beyerdynamic",
+        "phones": [
+            {
+                "index": 38,
+                "name": "Custom One Pro switch position 1",
+                "file": "Beyerdynamic Custom One Pro switch position 1"
+            },
+            {
+                "index": 38,
+                "name": "Custom One Pro switch position 2",
+                "file": "Beyerdynamic Custom One Pro switch position 2"
+            },
+            {
+                "index": 38,
+                "name": "Custom One Pro switch position 3",
+                "file": "Beyerdynamic Custom One Pro switch position 3"
+            },
+            {
+                "index": 38,
+                "name": "Custom One Pro switch position 4",
+                "file": "Beyerdynamic Custom One Pro switch position 4"
+            },
+            {
+                "index": 38,
+                "name": "DJX-1",
+                "file": "Beyerdynamic DJX-1"
+            },
+            {
+                "index": 38,
+                "name": "DT 100 2x2kOhm",
+                "file": "Beyerdynamic DT 100 2x2kOhm"
+            },
+            {
+                "index": 38,
+                "name": "DT 1350",
+                "file": "Beyerdynamic DT 1350"
+            },
+            {
+                "index": 38,
+                "name": "DT 150 250 Ohm",
+                "file": "Beyerdynamic DT 150 250 Ohm"
+            },
+            {
+                "index": 38,
+                "name": "DT 235",
+                "file": "Beyerdynamic DT 235"
+            },
+            {
+                "index": 38,
+                "name": "DT 240 Pro",
+                "file": "Beyerdynamic DT 240 Pro"
+            },
+            {
+                "index": 38,
+                "name": "DT 48 E 25 Ohm",
+                "file": "Beyerdynamic DT 48 E 25 Ohm"
+            },
+            {
+                "index": 38,
+                "name": "DT 48 E with pad holes covered",
+                "file": "Beyerdynamic DT 48 E with pad holes covered"
+            },
+            {
+                "index": 38,
+                "name": "DT 48",
+                "file": "Beyerdynamic DT 48"
+            },
+            {
+                "index": 38,
+                "name": "DT 48 Loose",
+                "file": "Beyerdynamic DT 48 Loose"
+            },
+            {
+                "index": 38,
+                "name": "DT 48 S 5 Ohm",
+                "file": "Beyerdynamic DT 48 S 5 Ohm"
+            },
+            {
+                "index": 38,
+                "name": "DT 770",
+                "file": "Beyerdynamic DT 770"
+            },
+            {
+                "index": 38,
+                "name": "DT 880 250 Ohm",
+                "file": "Beyerdynamic DT 880 250 Ohm"
+            },
+            {
+                "index": 38,
+                "name": "DT 880 32 Ohm",
+                "file": "Beyerdynamic DT 880 32 Ohm"
+            },
+            {
+                "index": 38,
+                "name": "DT 880 600 Ohm",
+                "file": "Beyerdynamic DT 880 600 Ohm"
+            },
+            {
+                "index": 38,
+                "name": "DT 990",
+                "file": "Beyerdynamic DT 990"
+            },
+            {
+                "index": 38,
+                "name": "DT250-250",
+                "file": "Beyerdynamic DT250-250"
+            },
+            {
+                "index": 38,
+                "name": "DTX300p",
+                "file": "Beyerdynamic DTX300p"
+            },
+            {
+                "index": 38,
+                "name": "DTX350m",
+                "file": "Beyerdynamic DTX350m"
+            },
+            {
+                "index": 38,
+                "name": "T1",
+                "file": "Beyerdynamic T1"
+            },
+            {
+                "index": 38,
+                "name": "T1 sn3964",
+                "file": "Beyerdynamic T1 sn3964"
+            },
+            {
+                "index": 38,
+                "name": "T50p",
+                "file": "Beyerdynamic T50p"
+            },
+            {
+                "index": 38,
+                "name": "T50p New Pads",
+                "file": "Beyerdynamic T50p New Pads"
+            },
+            {
+                "index": 38,
+                "name": "T50p sn16912",
+                "file": "Beyerdynamic T50p sn16912"
+            },
+            {
+                "index": 38,
+                "name": "T51i",
+                "file": "Beyerdynamic T51i"
+            },
+            {
+                "index": 38,
+                "name": "T5p",
+                "file": "Beyerdynamic T5p"
+            },
+            {
+                "index": 38,
+                "name": "T5p sn2866",
+                "file": "Beyerdynamic T5p sn2866"
+            },
+            {
+                "index": 38,
+                "name": "T70 250 Ohm",
+                "file": "Beyerdynamic T70 250 Ohm"
+            },
+            {
+                "index": 38,
+                "name": "T70 250 Ohm sn01111",
+                "file": "Beyerdynamic T70 250 Ohm sn01111"
+            },
+            {
+                "index": 38,
+                "name": "T70p",
+                "file": "Beyerdynamic T70p"
+            },
+            {
+                "index": 38,
+                "name": "T90",
+                "file": "Beyerdynamic T90"
+            }
+        ]
+    },
+    {
+        "name": "Bloc & Roc",
+        "phones": [
+            {
+                "index": 39,
+                "name": "Galvanize S2",
+                "file": "Bloc & Roc Galvanize S2"
+            }
+        ]
+    },
+    {
+        "name": "Blue",
+        "phones": [
+            {
+                "index": 40,
+                "name": "Lola",
+                "file": "Blue Lola"
+            },
+            {
+                "index": 40,
+                "name": "MoFi Active On",
+                "file": "Blue MoFi Active On"
+            },
+            {
+                "index": 40,
+                "name": "MoFi Active On Plus",
+                "file": "Blue MoFi Active On Plus"
+            },
+            {
+                "index": 40,
+                "name": "MoFi Passive",
+                "file": "Blue MoFi Passive"
+            },
+            {
+                "index": 40,
+                "name": "Ant Embrace",
+                "file": "BlueAnt Embrace"
+            },
+            {
+                "index": 40,
+                "name": "dio R2-WH",
+                "file": "Bluedio R2-WH"
+            }
+        ]
+    },
+    {
+        "name": "Bose",
+        "phones": [
+            {
+                "index": 45,
+                "name": "AE2",
+                "file": "Bose AE2"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 15",
+                "file": "Bose Quiet Comfort 15"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 20 Aware Mode",
+                "file": "Bose Quiet Comfort 20 Aware Mode"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 20",
+                "file": "Bose Quiet Comfort 20"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 20 Passive",
+                "file": "Bose Quiet Comfort 20 Passive"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 25",
+                "file": "Bose Quiet Comfort 25"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 25 Passive",
+                "file": "Bose Quiet Comfort 25 Passive"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 35 Wired Active",
+                "file": "Bose Quiet Comfort 35 Wired Active"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 35 Wired Passive",
+                "file": "Bose Quiet Comfort 35 Wired Passive"
+            },
+            {
+                "index": 45,
+                "name": "Quiet Comfort 35 Wireless Active",
+                "file": "Bose Quiet Comfort 35 Wireless Active"
+            }
+        ]
+    },
+    {
+        "name": "Bowers & Wilkins",
+        "phones": [
+            {
+                "index": 46,
+                "name": "P3",
+                "file": "Bowers & Wilkins P3"
+            },
+            {
+                "index": 46,
+                "name": "P5",
+                "file": "Bowers & Wilkins P5"
+            },
+            {
+                "index": 46,
+                "name": "P5 Series 2",
+                "file": "Bowers & Wilkins P5 Series 2"
+            },
+            {
+                "index": 46,
+                "name": "P5 Test 2",
+                "file": "Bowers & Wilkins P5 Test 2"
+            },
+            {
+                "index": 46,
+                "name": "P7",
+                "file": "Bowers & Wilkins P7"
+            }
+        ]
+    },
+    {
+        "name": "Caeden",
+        "phones": [
+            {
+                "index": 49,
+                "name": "Linea No10 Active Wired",
+                "file": "Caeden Linea No10 Active Wired"
+            },
+            {
+                "index": 49,
+                "name": "Linea No10 Passive Wired",
+                "file": "Caeden Linea No10 Passive Wired"
+            }
+        ]
+    },
+    {
+        "name": "California Headphone Company",
+        "phones": [
+            {
+                "index": 50,
+                "name": "Lorado",
+                "file": "California Headphone Company Lorado"
+            },
+            {
+                "index": 50,
+                "name": "Silverado",
+                "file": "California Headphone Company Silverado"
+            }
+        ]
+    },
+    {
+        "name": "Cowin",
+        "phones": [
+            {
+                "index": 55,
+                "name": "E7 Wired NC off",
+                "file": "Cowin E7 Wired NC off"
+            },
+            {
+                "index": 55,
+                "name": "E7 Wired NC on",
+                "file": "Cowin E7 Wired NC on"
+            }
+        ]
+    },
+    {
+        "name": "Creative",
+        "phones": [
+            {
+                "index": 56,
+                "name": "Aurvana",
+                "file": "Creative Aurvana"
+            },
+            {
+                "index": 56,
+                "name": "Aurvana Live! 2",
+                "file": "Creative Aurvana Live! 2"
+            },
+            {
+                "index": 56,
+                "name": "Fatallty",
+                "file": "Creative Fatallty"
+            }
+        ]
+    },
+    {
+        "name": "Denon",
+        "phones": [
+            {
+                "index": 59,
+                "name": "AH-D1001",
+                "file": "Denon AH-D1001"
+            },
+            {
+                "index": 59,
+                "name": "AH-D1100",
+                "file": "Denon AH-D1100"
+            },
+            {
+                "index": 59,
+                "name": "AH-D2000 B2012",
+                "file": "Denon AH-D2000 B2012"
+            },
+            {
+                "index": 59,
+                "name": "AH-D2000",
+                "file": "Denon AH-D2000"
+            },
+            {
+                "index": 59,
+                "name": "AH-D2000 modified by Hans030390",
+                "file": "Denon AH-D2000 modified by Hans030390"
+            },
+            {
+                "index": 59,
+                "name": "AH-D2000 with JMoney Pads",
+                "file": "Denon AH-D2000 with JMoney Pads"
+            },
+            {
+                "index": 59,
+                "name": "AH-D400",
+                "file": "Denon AH-D400"
+            },
+            {
+                "index": 59,
+                "name": "AH-D5000 B2012",
+                "file": "Denon AH-D5000 B2012"
+            },
+            {
+                "index": 59,
+                "name": "AH-D5000",
+                "file": "Denon AH-D5000"
+            },
+            {
+                "index": 59,
+                "name": "AH-D5000 with JMoney Pads",
+                "file": "Denon AH-D5000 with JMoney Pads"
+            },
+            {
+                "index": 59,
+                "name": "AH-D600",
+                "file": "Denon AH-D600"
+            },
+            {
+                "index": 59,
+                "name": "AH-D7000 B2012",
+                "file": "Denon AH-D7000 B2012"
+            },
+            {
+                "index": 59,
+                "name": "AH-D7000",
+                "file": "Denon AH-D7000"
+            },
+            {
+                "index": 59,
+                "name": "AH-D7000 modified by lmswjm",
+                "file": "Denon AH-D7000 modified by lmswjm"
+            },
+            {
+                "index": 59,
+                "name": "AH-D7100",
+                "file": "Denon AH-D7100"
+            }
+        ]
+    },
+    {
+        "name": "E-MU",
+        "phones": [
+            {
+                "index": 65,
+                "name": "Teak 2016",
+                "file": "E-MU Teak 2016"
+            },
+            {
+                "index": 65,
+                "name": "Teak Mahogany Cups",
+                "file": "E-MU Teak Mahogany Cups"
+            },
+            {
+                "index": 65,
+                "name": "Teak Rosewood Cups",
+                "file": "E-MU Teak Rosewood Cups"
+            },
+            {
+                "index": 65,
+                "name": "Walnut",
+                "file": "E-MU Walnut"
+            }
+        ]
+    },
+    {
+        "name": "Earsonics",
+        "phones": [
+            {
+                "index": 69,
+                "name": "ES3",
+                "file": "Earsonics ES3"
+            }
+        ]
+    },
+    {
+        "name": "Edifier",
+        "phones": [
+            {
+                "index": 71,
+                "name": "P180",
+                "file": "Edifier P180"
+            }
+        ]
+    },
+    {
+        "name": "Enigmacoustics",
+        "phones": [
+            {
+                "index": 72,
+                "name": "Dharma 2015",
+                "file": "Enigmacoustics Dharma 2015"
+            }
+        ]
+    },
+    {
+        "name": "Enigmatic Audio",
+        "phones": [
+            {
+                "index": 73,
+                "name": "Paradox",
+                "file": "Enigmatic Audio Paradox"
+            }
+        ]
+    },
+    {
+        "name": "Eskuche",
+        "phones": [
+            {
+                "index": 74,
+                "name": "33.3 B",
+                "file": "Eskuche 33.3 B"
+            }
+        ]
+    },
+    {
+        "name": "Final Audio",
+        "phones": [
+            {
+                "index": 80,
+                "name": "Pandora Hope 4",
+                "file": "Final Audio Pandora Hope 4"
+            }
+        ]
+    },
+    {
+        "name": "Fischer Audio",
+        "phones": [
+            {
+                "index": 82,
+                "name": "FA-003",
+                "file": "Fischer Audio FA-003"
+            },
+            {
+                "index": 82,
+                "name": "FA-011LE",
+                "file": "Fischer Audio FA-011LE"
+            }
+        ]
+    },
+    {
+        "name": "Flare Audio",
+        "phones": [
+            {
+                "index": 84,
+                "name": "Reference R1",
+                "file": "Flare Audio Reference R1"
+            }
+        ]
+    },
+    {
+        "name": "Focal",
+        "phones": [
+            {
+                "index": 85,
+                "name": "Clear snA1BRQE000007",
+                "file": "Focal Clear snA1BRQE000007"
+            },
+            {
+                "index": 85,
+                "name": "Clear snA1BRQE000013",
+                "file": "Focal Clear snA1BRQE000013"
+            },
+            {
+                "index": 85,
+                "name": "Elear",
+                "file": "Focal Elear"
+            },
+            {
+                "index": 85,
+                "name": "Elear sn1BEBG004809",
+                "file": "Focal Elear sn1BEBG004809"
+            },
+            {
+                "index": 85,
+                "name": "Elear with Utopia Pads",
+                "file": "Focal Elear with Utopia Pads"
+            },
+            {
+                "index": 85,
+                "name": "Listen",
+                "file": "Focal Listen"
+            },
+            {
+                "index": 85,
+                "name": "Spirit One 2013 B",
+                "file": "Focal Spirit One 2013 B"
+            },
+            {
+                "index": 85,
+                "name": "Spirit One Classic",
+                "file": "Focal Spirit One Classic"
+            },
+            {
+                "index": 85,
+                "name": "Spirit One",
+                "file": "Focal Spirit One"
+            },
+            {
+                "index": 85,
+                "name": "Spirit One S",
+                "file": "Focal Spirit One S"
+            },
+            {
+                "index": 85,
+                "name": "Spirit Professional",
+                "file": "Focal Spirit Professional"
+            },
+            {
+                "index": 85,
+                "name": "Utopia",
+                "file": "Focal Utopia"
+            },
+            {
+                "index": 85,
+                "name": "Utopia Sample B 2",
+                "file": "Focal Utopia Sample B 2"
+            },
+            {
+                "index": 85,
+                "name": "Utopia Sample B",
+                "file": "Focal Utopia Sample B"
+            },
+            {
+                "index": 85,
+                "name": "Utopia Sample C 2nd Measurement",
+                "file": "Focal Utopia Sample C 2nd Measurement"
+            },
+            {
+                "index": 85,
+                "name": "Utopia Sample C",
+                "file": "Focal Utopia Sample C"
+            },
+            {
+                "index": 85,
+                "name": "Utopia snA1BEHG003253",
+                "file": "Focal Utopia snA1BEHG003253"
+            },
+            {
+                "index": 85,
+                "name": "Utopia with Elear Pads",
+                "file": "Focal Utopia with Elear Pads"
+            }
+        ]
+    },
+    {
+        "name": "Fostex",
+        "phones": [
+            {
+                "index": 86,
+                "name": "T10 moddified by dBel84",
+                "file": "Fostex T10 moddified by dBel84"
+            },
+            {
+                "index": 86,
+                "name": "T20RP Mk3",
+                "file": "Fostex T20RP Mk3"
+            },
+            {
+                "index": 86,
+                "name": "T20RP modified by scompton",
+                "file": "Fostex T20RP modified by scompton"
+            },
+            {
+                "index": 86,
+                "name": "T30 modified by scompton",
+                "file": "Fostex T30 modified by scompton"
+            },
+            {
+                "index": 86,
+                "name": "T40RP Mk3",
+                "file": "Fostex T40RP Mk3"
+            },
+            {
+                "index": 86,
+                "name": "T40RP modified by scompton",
+                "file": "Fostex T40RP modified by scompton"
+            },
+            {
+                "index": 86,
+                "name": "T50",
+                "file": "Fostex T50"
+            },
+            {
+                "index": 86,
+                "name": "T50RP 2011 A",
+                "file": "Fostex T50RP 2011 A"
+            },
+            {
+                "index": 86,
+                "name": "T50RP 2011 B",
+                "file": "Fostex T50RP 2011 B"
+            },
+            {
+                "index": 86,
+                "name": "T50RP 2013",
+                "file": "Fostex T50RP 2013"
+            },
+            {
+                "index": 86,
+                "name": "T50RP Mk3",
+                "file": "Fostex T50RP Mk3"
+            },
+            {
+                "index": 86,
+                "name": "T50RP Smeggy Thunderpants owned by ontherivet",
+                "file": "Fostex T50RP Smeggy Thunderpants owned by ontherivet"
+            },
+            {
+                "index": 86,
+                "name": "T50RP Thundersticks modified by ilikepie116",
+                "file": "Fostex T50RP Thundersticks modified by ilikepie116"
+            },
+            {
+                "index": 86,
+                "name": "T50RP modified by 200poundsofamp",
+                "file": "Fostex T50RP modified by 200poundsofamp"
+            }
+        ]
+    },
+    {
+        "name": "Grado",
+        "phones": [
+            {
+                "index": 89,
+                "name": "GS1000",
+                "file": "Grado GS1000"
+            },
+            {
+                "index": 89,
+                "name": "HF-1 69 Goo Bowl",
+                "file": "Grado HF-1 69 Goo Bowl"
+            },
+            {
+                "index": 89,
+                "name": "HF-1 Prototype",
+                "file": "Grado HF-1 Prototype"
+            },
+            {
+                "index": 89,
+                "name": "HF-1 sn69",
+                "file": "Grado HF-1 sn69"
+            },
+            {
+                "index": 89,
+                "name": "HF-2",
+                "file": "Grado HF-2"
+            },
+            {
+                "index": 89,
+                "name": "Magnum V3 - Marty Cocobolo Cups - pbandstephanwich",
+                "file": "Grado Magnum V3 - Marty Cocobolo Cups - pbandstephanwich"
+            },
+            {
+                "index": 89,
+                "name": "PS-1 with HP1000 drivers modified by LFF",
+                "file": "Grado PS-1 with HP1000 drivers modified by LFF"
+            },
+            {
+                "index": 89,
+                "name": "PS1000",
+                "file": "Grado PS1000"
+            },
+            {
+                "index": 89,
+                "name": "PS500",
+                "file": "Grado PS500"
+            },
+            {
+                "index": 89,
+                "name": "RS1",
+                "file": "Grado RS1"
+            },
+            {
+                "index": 89,
+                "name": "RS1e Bowl Pads",
+                "file": "Grado RS1e Bowl Pads"
+            },
+            {
+                "index": 89,
+                "name": "RS1e Flat Pads",
+                "file": "Grado RS1e Flat Pads"
+            },
+            {
+                "index": 89,
+                "name": "RS1e S-Cushions",
+                "file": "Grado RS1e S-Cushions"
+            },
+            {
+                "index": 89,
+                "name": "RS1e Yellow Pads",
+                "file": "Grado RS1e Yellow Pads"
+            },
+            {
+                "index": 89,
+                "name": "RS2",
+                "file": "Grado RS2"
+            },
+            {
+                "index": 89,
+                "name": "SR125i",
+                "file": "Grado SR125i"
+            },
+            {
+                "index": 89,
+                "name": "SR225 Comfy Pad with Hole",
+                "file": "Grado SR225 Comfy Pad with Hole"
+            },
+            {
+                "index": 89,
+                "name": "SR225i Bowls Tape Mod",
+                "file": "Grado SR225i Bowls Tape Mod"
+            },
+            {
+                "index": 89,
+                "name": "SR225i Comfy Pads",
+                "file": "Grado SR225i Comfy Pads"
+            },
+            {
+                "index": 89,
+                "name": "SR225i G Pads",
+                "file": "Grado SR225i G Pads"
+            },
+            {
+                "index": 89,
+                "name": "SR225i Goo Bowl",
+                "file": "Grado SR225i Goo Bowl"
+            },
+            {
+                "index": 89,
+                "name": "SR225i",
+                "file": "Grado SR225i"
+            },
+            {
+                "index": 89,
+                "name": "SR225i with Cabillas Sapele Wood Cups built by Kojaku",
+                "file": "Grado SR225i with Cabillas Sapele Wood Cups built by Kojaku"
+            },
+            {
+                "index": 89,
+                "name": "SR225i with Reverse Bowl Mod",
+                "file": "Grado SR225i with Reverse Bowl Mod"
+            },
+            {
+                "index": 89,
+                "name": "SR225i with Small Flat Pads",
+                "file": "Grado SR225i with Small Flat Pads"
+            },
+            {
+                "index": 89,
+                "name": "SR225i with TTVJ Flat Pads",
+                "file": "Grado SR225i with TTVJ Flat Pads"
+            },
+            {
+                "index": 89,
+                "name": "SR325",
+                "file": "Grado SR325"
+            },
+            {
+                "index": 89,
+                "name": "SR325e",
+                "file": "Grado SR325e"
+            },
+            {
+                "index": 89,
+                "name": "SR325i",
+                "file": "Grado SR325i"
+            },
+            {
+                "index": 89,
+                "name": "SR60 Modified by Kneel Jung",
+                "file": "Grado SR60 Modified by Kneel Jung"
+            },
+            {
+                "index": 89,
+                "name": "SR60i",
+                "file": "Grado SR60i"
+            },
+            {
+                "index": 89,
+                "name": "Sympones Magnum V2.5",
+                "file": "Grado Sympones Magnum V2.5"
+            }
+        ]
+    },
+    {
+        "name": "HiFiMAN",
+        "phones": [
+            {
+                "index": 93,
+                "name": "Edition X",
+                "file": "HiFiMAN Edition X"
+            },
+            {
+                "index": 93,
+                "name": "Edition X V2",
+                "file": "HiFiMAN Edition X V2"
+            },
+            {
+                "index": 93,
+                "name": "HE-1000",
+                "file": "HiFiMAN HE-1000"
+            },
+            {
+                "index": 93,
+                "name": "HE-1000 Pre-Production",
+                "file": "HiFiMAN HE-1000 Pre-Production"
+            },
+            {
+                "index": 93,
+                "name": "HE-300",
+                "file": "HiFiMAN HE-300"
+            },
+            {
+                "index": 93,
+                "name": "HE-300 Rev2",
+                "file": "HiFiMAN HE-300 Rev2"
+            },
+            {
+                "index": 93,
+                "name": "HE-4",
+                "file": "HiFiMAN HE-4"
+            },
+            {
+                "index": 93,
+                "name": "HE-400",
+                "file": "HiFiMAN HE-400"
+            },
+            {
+                "index": 93,
+                "name": "HE-400S",
+                "file": "HiFiMAN HE-400S"
+            },
+            {
+                "index": 93,
+                "name": "HE-400i 2014",
+                "file": "HiFiMAN HE-400i 2014"
+            },
+            {
+                "index": 93,
+                "name": "HE-5",
+                "file": "HiFiMAN HE-5"
+            },
+            {
+                "index": 93,
+                "name": "HE-500",
+                "file": "HiFiMAN HE-500"
+            },
+            {
+                "index": 93,
+                "name": "HE-560 2014",
+                "file": "HiFiMAN HE-560 2014"
+            },
+            {
+                "index": 93,
+                "name": "HE-5LE",
+                "file": "HiFiMAN HE-5LE"
+            },
+            {
+                "index": 93,
+                "name": "HE-6",
+                "file": "HiFiMAN HE-6"
+            },
+            {
+                "index": 93,
+                "name": "Sundara",
+                "file": "HiFiMAN Sundara"
+            }
+        ]
+    },
+    {
+        "name": "House of Marley",
+        "phones": [
+            {
+                "index": 95,
+                "name": "Exodus",
+                "file": "House of Marley Exodus"
+            },
+            {
+                "index": 95,
+                "name": "Liberate XLBT Wired",
+                "file": "House of Marley Liberate XLBT Wired"
+            },
+            {
+                "index": 95,
+                "name": "_Stir It Up_",
+                "file": "House of Marley _Stir It Up_"
+            }
+        ]
+    },
+    {
+        "name": "I-Mego",
+        "phones": [
+            {
+                "index": 97,
+                "name": "Throne",
+                "file": "I-Mego Throne"
+            }
+        ]
+    },
+    {
+        "name": "JBL",
+        "phones": [
+            {
+                "index": 101,
+                "name": "Everest Elite 700 Wired Active",
+                "file": "JBL Everest Elite 700 Wired Active"
+            },
+            {
+                "index": 101,
+                "name": "Everest Elite 700 Wired Passive",
+                "file": "JBL Everest Elite 700 Wired Passive"
+            },
+            {
+                "index": 101,
+                "name": "Everest Elite 700 Wireless Active",
+                "file": "JBL Everest Elite 700 Wireless Active"
+            },
+            {
+                "index": 101,
+                "name": "J55i",
+                "file": "JBL J55i"
+            },
+            {
+                "index": 101,
+                "name": "J88i",
+                "file": "JBL J88i"
+            }
+        ]
+    },
+    {
+        "name": "JVC",
+        "phones": [
+            {
+                "index": 103,
+                "name": "HA-S500-Z",
+                "file": "JVC HA-S500-Z"
+            }
+        ]
+    },
+    {
+        "name": "Jabra",
+        "phones": [
+            {
+                "index": 104,
+                "name": "Move Wired",
+                "file": "Jabra Move Wired"
+            },
+            {
+                "index": 104,
+                "name": "Move Wireless",
+                "file": "Jabra Move Wireless"
+            }
+        ]
+    },
+    {
+        "name": "Jays",
+        "phones": [
+            {
+                "index": 106,
+                "name": "u-",
+                "file": "Jays u-Jays"
+            },
+            {
+                "index": 106,
+                "name": "v-",
+                "file": "Jays v-Jays"
+            }
+        ]
+    },
+    {
+        "name": "KEF",
+        "phones": [
+            {
+                "index": 107,
+                "name": "M500",
+                "file": "KEF M500"
+            }
+        ]
+    },
+    {
+        "name": "KRK",
+        "phones": [
+            {
+                "index": 108,
+                "name": "KNS 6400",
+                "file": "KRK KNS 6400"
+            },
+            {
+                "index": 108,
+                "name": "KNS 8400",
+                "file": "KRK KNS 8400"
+            }
+        ]
+    },
+    {
+        "name": "Kennerton",
+        "phones": [
+            {
+                "index": 110,
+                "name": "Magister",
+                "file": "Kennerton Magister"
+            }
+        ]
+    },
+    {
+        "name": "Klipsch",
+        "phones": [
+            {
+                "index": 111,
+                "name": "Heritage HP-3",
+                "file": "Klipsch Heritage HP-3"
+            },
+            {
+                "index": 111,
+                "name": "Image One B",
+                "file": "Klipsch Image One B"
+            },
+            {
+                "index": 111,
+                "name": "Image One",
+                "file": "Klipsch Image One"
+            },
+            {
+                "index": 111,
+                "name": "Mode M-40",
+                "file": "Klipsch Mode M-40"
+            },
+            {
+                "index": 111,
+                "name": "Reference On-Ear",
+                "file": "Klipsch Reference On-Ear"
+            },
+            {
+                "index": 111,
+                "name": "Reference One",
+                "file": "Klipsch Reference One"
+            }
+        ]
+    },
+    {
+        "name": "Koss",
+        "phones": [
+            {
+                "index": 112,
+                "name": "BT540i Wired Passive",
+                "file": "Koss BT540i Wired Passive"
+            },
+            {
+                "index": 112,
+                "name": "ESP950",
+                "file": "Koss ESP950"
+            },
+            {
+                "index": 112,
+                "name": "ESP950 Sample 2",
+                "file": "Koss ESP950 Sample 2"
+            },
+            {
+                "index": 112,
+                "name": "KPH7",
+                "file": "Koss KPH7"
+            },
+            {
+                "index": 112,
+                "name": "KPH7 modified by obobskivich",
+                "file": "Koss KPH7 modified by obobskivich"
+            },
+            {
+                "index": 112,
+                "name": "KSC75",
+                "file": "Koss KSC75"
+            },
+            {
+                "index": 112,
+                "name": "PortaPro",
+                "file": "Koss PortaPro"
+            },
+            {
+                "index": 112,
+                "name": "Pro4AA 1975",
+                "file": "Koss Pro4AA 1975"
+            },
+            {
+                "index": 112,
+                "name": "Pro4AA 2014",
+                "file": "Koss Pro4AA 2014"
+            },
+            {
+                "index": 112,
+                "name": "Pro4AAA",
+                "file": "Koss Pro4AAA"
+            },
+            {
+                "index": 112,
+                "name": "Pro4S",
+                "file": "Koss Pro4S"
+            },
+            {
+                "index": 112,
+                "name": "SP330",
+                "file": "Koss SP330"
+            },
+            {
+                "index": 112,
+                "name": "SP540",
+                "file": "Koss SP540"
+            },
+            {
+                "index": 112,
+                "name": "Tony Bennett",
+                "file": "Koss Tony Bennett"
+            }
+        ]
+    },
+    {
+        "name": "Leak",
+        "phones": [
+            {
+                "index": 114,
+                "name": "Isodynamic modified by dBel84",
+                "file": "Leak Isodynamic modified by dBel84"
+            }
+        ]
+    },
+    {
+        "name": "Logitech",
+        "phones": [
+            {
+                "index": 118,
+                "name": "UE4000 2012",
+                "file": "Logitech UE4000 2012"
+            },
+            {
+                "index": 118,
+                "name": "UE6000 Passive",
+                "file": "Logitech UE6000 Passive"
+            },
+            {
+                "index": 118,
+                "name": "UE9000 Paasive",
+                "file": "Logitech UE9000 Paasive"
+            }
+        ]
+    },
+    {
+        "name": "Massdrop",
+        "phones": [
+            {
+                "index": 124,
+                "name": "NuForce Every Day Carry",
+                "file": "Massdrop NuForce Every Day Carry"
+            }
+        ]
+    },
+    {
+        "name": "Master & Dynamic",
+        "phones": [
+            {
+                "index": 125,
+                "name": "MH30",
+                "file": "Master & Dynamic MH30"
+            },
+            {
+                "index": 125,
+                "name": "MH40",
+                "file": "Master & Dynamic MH40"
+            }
+        ]
+    },
+    {
+        "name": "Meze",
+        "phones": [
+            {
+                "index": 126,
+                "name": "11 Neo",
+                "file": "Meze 11 Neo"
+            },
+            {
+                "index": 126,
+                "name": "12 Classics",
+                "file": "Meze 12 Classics"
+            },
+            {
+                "index": 126,
+                "name": "66 Classics",
+                "file": "Meze 66 Classics"
+            },
+            {
+                "index": 126,
+                "name": "88 Classics",
+                "file": "Meze 88 Classics"
+            },
+            {
+                "index": 126,
+                "name": "99 Classics",
+                "file": "Meze 99 Classics"
+            },
+            {
+                "index": 126,
+                "name": "99 Classics with Neo Pads",
+                "file": "Meze 99 Classics with Neo Pads"
+            },
+            {
+                "index": 126,
+                "name": "99 Neo",
+                "file": "Meze 99 Neo"
+            },
+            {
+                "index": 126,
+                "name": "99 Neo with Classics Pads",
+                "file": "Meze 99 Neo with Classics Pads"
+            }
+        ]
+    },
+    {
+        "name": "Monoprice",
+        "phones": [
+            {
+                "index": 129,
+                "name": "8323",
+                "file": "Monoprice 8323"
+            },
+            {
+                "index": 129,
+                "name": "Monolith M1060",
+                "file": "Monoprice Monolith M1060"
+            }
+        ]
+    },
+    {
+        "name": "Monster",
+        "phones": [
+            {
+                "index": 130,
+                "name": "DNA Pro 2",
+                "file": "Monster DNA Pro 2"
+            },
+            {
+                "index": 130,
+                "name": "Inspiration",
+                "file": "Monster Inspiration"
+            }
+        ]
+    },
+    {
+        "name": "Mr. Speakers",
+        "phones": [
+            {
+                "index": 133,
+                "name": "Aeon Flow One Notch White Filter",
+                "file": "Mr. Speakers Aeon Flow One Notch White Filter"
+            },
+            {
+                "index": 133,
+                "name": "Aeon Flow Open Black Foam Filters",
+                "file": "Mr. Speakers Aeon Flow Open Black Foam Filters"
+            },
+            {
+                "index": 133,
+                "name": "Aeon Flow Open No Filter",
+                "file": "Mr. Speakers Aeon Flow Open No Filter"
+            },
+            {
+                "index": 133,
+                "name": "Aeon Flow Two Notch White Filter",
+                "file": "Mr. Speakers Aeon Flow Two Notch White Filter"
+            },
+            {
+                "index": 133,
+                "name": "Aeon",
+                "file": "Mr. Speakers Aeon"
+            },
+            {
+                "index": 133,
+                "name": "Aeon Pre-Production",
+                "file": "Mr. Speakers Aeon Pre-Production"
+            },
+            {
+                "index": 133,
+                "name": "Aeon snACXA987",
+                "file": "Mr. Speakers Aeon snACXA987"
+            },
+            {
+                "index": 133,
+                "name": "Aeon snACXA994",
+                "file": "Mr. Speakers Aeon snACXA994"
+            },
+            {
+                "index": 133,
+                "name": "Aeon snACXB168",
+                "file": "Mr. Speakers Aeon snACXB168"
+            },
+            {
+                "index": 133,
+                "name": "Aeon snACXB168 with filters",
+                "file": "Mr. Speakers Aeon snACXB168 with filters"
+            },
+            {
+                "index": 133,
+                "name": "Alpha Dog 2014",
+                "file": "Mr. Speakers Alpha Dog 2014"
+            },
+            {
+                "index": 133,
+                "name": "Alpha Prime",
+                "file": "Mr. Speakers Alpha Prime"
+            },
+            {
+                "index": 133,
+                "name": "Ether C 1 Black Filter",
+                "file": "Mr. Speakers Ether C 1 Black Filter"
+            },
+            {
+                "index": 133,
+                "name": "Ether C 2 Black Filters",
+                "file": "Mr. Speakers Ether C 2 Black Filters"
+            },
+            {
+                "index": 133,
+                "name": "Ether C Flow E-Stat Pads",
+                "file": "Mr. Speakers Ether C Flow E-Stat Pads"
+            },
+            {
+                "index": 133,
+                "name": "Ether C",
+                "file": "Mr. Speakers Ether C"
+            },
+            {
+                "index": 133,
+                "name": "Ether C White Filter",
+                "file": "Mr. Speakers Ether C White Filter"
+            },
+            {
+                "index": 133,
+                "name": "Ether Flow 2016",
+                "file": "Mr. Speakers Ether Flow 2016"
+            },
+            {
+                "index": 133,
+                "name": "Ether Flow C",
+                "file": "Mr. Speakers Ether Flow C"
+            },
+            {
+                "index": 133,
+                "name": "Ether Flow Pre-Production 2016",
+                "file": "Mr. Speakers Ether Flow Pre-Production 2016"
+            },
+            {
+                "index": 133,
+                "name": "Ether",
+                "file": "Mr. Speakers Ether"
+            },
+            {
+                "index": 133,
+                "name": "Mad Dog 2014",
+                "file": "Mr. Speakers Mad Dog 2014"
+            },
+            {
+                "index": 133,
+                "name": "Mad Dog A",
+                "file": "Mr. Speakers Mad Dog A"
+            }
+        ]
+    },
+    {
+        "name": "Munitio",
+        "phones": [
+            {
+                "index": 134,
+                "name": "Pro40",
+                "file": "Munitio Pro40"
+            }
+        ]
+    },
+    {
+        "name": "Music Hall",
+        "phones": [
+            {
+                "index": 135,
+                "name": "De-Be",
+                "file": "Music Hall De-Be"
+            }
+        ]
+    },
+    {
+        "name": "MusicalFidelity",
+        "phones": [
+            {
+                "index": 136,
+                "name": "MF100",
+                "file": "MusicalFidelity MF100"
+            },
+            {
+                "index": 136,
+                "name": "MF200",
+                "file": "MusicalFidelity MF200"
+            }
+        ]
+    },
+    {
+        "name": "MyST",
+        "phones": [
+            {
+                "index": 137,
+                "name": "IzoPhones 60",
+                "file": "MyST IzoPhones 60"
+            }
+        ]
+    },
+    {
+        "name": "NAD",
+        "phones": [
+            {
+                "index": 138,
+                "name": "RP18 Bass Light Version",
+                "file": "NAD RP18 Bass Light Version"
+            },
+            {
+                "index": 138,
+                "name": "VISO HP50",
+                "file": "NAD VISO HP50"
+            },
+            {
+                "index": 138,
+                "name": "VISO HP50 [HeadRppm]",
+                "file": "NAD VISO HP50 [HeadRppm]"
+            }
+        ]
+    },
+    {
+        "name": "NVX",
+        "phones": [
+            {
+                "index": 140,
+                "name": "XPT100 Angled Pads",
+                "file": "NVX XPT100 Angled Pads"
+            },
+            {
+                "index": 140,
+                "name": "XPT100 Flat Pads",
+                "file": "NVX XPT100 Flat Pads"
+            }
+        ]
+    },
+    {
+        "name": "Nixon",
+        "phones": [
+            {
+                "index": 142,
+                "name": "RPM",
+                "file": "Nixon RPM"
+            }
+        ]
+    },
+    {
+        "name": "Nocs",
+        "phones": [
+            {
+                "index": 144,
+                "name": "NS300",
+                "file": "Nocs NS300"
+            },
+            {
+                "index": 144,
+                "name": "NS700",
+                "file": "Nocs NS700"
+            }
+        ]
+    },
+    {
+        "name": "Noontec",
+        "phones": [
+            {
+                "index": 145,
+                "name": "Hammo S Inner Pad Removed",
+                "file": "Noontec Hammo S Inner Pad Removed"
+            },
+            {
+                "index": 145,
+                "name": "Hammo S",
+                "file": "Noontec Hammo S"
+            },
+            {
+                "index": 145,
+                "name": "Zoro HD",
+                "file": "Noontec Zoro HD"
+            },
+            {
+                "index": 145,
+                "name": "Zoro II",
+                "file": "Noontec Zoro II"
+            },
+            {
+                "index": 145,
+                "name": "Zoro II Wireless Passive",
+                "file": "Noontec Zoro II Wireless Passive"
+            },
+            {
+                "index": 145,
+                "name": "Zoro",
+                "file": "Noontec Zoro"
+            }
+        ]
+    },
+    {
+        "name": "NuForce",
+        "phones": [
+            {
+                "index": 148,
+                "name": "HP-800",
+                "file": "NuForce HP-800"
+            }
+        ]
+    },
+    {
+        "name": "Onkyo",
+        "phones": [
+            {
+                "index": 152,
+                "name": "ES-FC300",
+                "file": "Onkyo ES-FC300"
+            }
+        ]
+    },
+    {
+        "name": "Oppo",
+        "phones": [
+            {
+                "index": 153,
+                "name": "PM-1 Alt Pads",
+                "file": "Oppo PM-1 Alt Pads"
+            },
+            {
+                "index": 153,
+                "name": "PM-1",
+                "file": "Oppo PM-1"
+            },
+            {
+                "index": 153,
+                "name": "PM-1 PM-2 Pads",
+                "file": "Oppo PM-1 PM-2 Pads"
+            },
+            {
+                "index": 153,
+                "name": "PM-1 Velour Pads",
+                "file": "Oppo PM-1 Velour Pads"
+            },
+            {
+                "index": 153,
+                "name": "PM-2 modified by hans030390",
+                "file": "Oppo PM-2 modified by hans030390"
+            },
+            {
+                "index": 153,
+                "name": "PM-2 with PM-1 Alt Pads",
+                "file": "Oppo PM-2 with PM-1 Alt Pads"
+            },
+            {
+                "index": 153,
+                "name": "PM-2 with PM-1 Leather Pads",
+                "file": "Oppo PM-2 with PM-1 Leather Pads"
+            },
+            {
+                "index": 153,
+                "name": "PM-2 with PM-1 Velour Pads",
+                "file": "Oppo PM-2 with PM-1 Velour Pads"
+            },
+            {
+                "index": 153,
+                "name": "PM-2 with Stock Pads",
+                "file": "Oppo PM-2 with Stock Pads"
+            },
+            {
+                "index": 153,
+                "name": "PM-3",
+                "file": "Oppo PM-3"
+            },
+            {
+                "index": 153,
+                "name": "PM-3 Sample C",
+                "file": "Oppo PM-3 Sample C"
+            }
+        ]
+    },
+    {
+        "name": "Orenholz",
+        "phones": [
+            {
+                "index": 154,
+                "name": "Magnum V4 modified by Mullet (bowl pads)",
+                "file": "Orenholz Magnum V4 modified by Mullet (bowl pads)"
+            },
+            {
+                "index": 154,
+                "name": "Magnum V4 modified by Mullet",
+                "file": "Orenholz Magnum V4 modified by Mullet"
+            }
+        ]
+    },
+    {
+        "name": "Ortofon",
+        "phones": [
+            {
+                "index": 155,
+                "name": "0-One",
+                "file": "Ortofon 0-One"
+            }
+        ]
+    },
+    {
+        "name": "PSB",
+        "phones": [
+            {
+                "index": 158,
+                "name": "M4U 1",
+                "file": "PSB M4U 1"
+            },
+            {
+                "index": 158,
+                "name": "M4U 2 (passive mode)",
+                "file": "PSB M4U 2 (passive mode)"
+            },
+            {
+                "index": 158,
+                "name": "M4U 2",
+                "file": "PSB M4U 2"
+            },
+            {
+                "index": 158,
+                "name": "M4U 8 Wired Active",
+                "file": "PSB M4U 8 Wired Active"
+            },
+            {
+                "index": 158,
+                "name": "M4U 8 Wired Active NC On",
+                "file": "PSB M4U 8 Wired Active NC On"
+            },
+            {
+                "index": 158,
+                "name": "M4U 8 Wired Passive",
+                "file": "PSB M4U 8 Wired Passive"
+            }
+        ]
+    },
+    {
+        "name": "Panasonic",
+        "phones": [
+            {
+                "index": 159,
+                "name": "RP-HT600-S",
+                "file": "Panasonic RP-HT600-S"
+            }
+        ]
+    },
+    {
+        "name": "Phiaton",
+        "phones": [
+            {
+                "index": 162,
+                "name": "Bridge MS 500",
+                "file": "Phiaton Bridge MS 500"
+            }
+        ]
+    },
+    {
+        "name": "Philips",
+        "phones": [
+            {
+                "index": 163,
+                "name": "Action Fit SHQ5200",
+                "file": "Philips Action Fit SHQ5200"
+            },
+            {
+                "index": 163,
+                "name": "Cityscape Downtown",
+                "file": "Philips Cityscape Downtown"
+            },
+            {
+                "index": 163,
+                "name": "Construct",
+                "file": "Philips Construct"
+            },
+            {
+                "index": 163,
+                "name": "Fidelio L1",
+                "file": "Philips Fidelio L1"
+            },
+            {
+                "index": 163,
+                "name": "Fidelio M1",
+                "file": "Philips Fidelio M1"
+            },
+            {
+                "index": 163,
+                "name": "Fidelio M1 Mk1 2012",
+                "file": "Philips Fidelio M1 Mk1 2012"
+            },
+            {
+                "index": 163,
+                "name": "Fidelio M2L",
+                "file": "Philips Fidelio M2L"
+            },
+            {
+                "index": 163,
+                "name": "Fidelio X1",
+                "file": "Philips Fidelio X1"
+            },
+            {
+                "index": 163,
+                "name": "Fidelio X2",
+                "file": "Philips Fidelio X2"
+            },
+            {
+                "index": 163,
+                "name": "L2",
+                "file": "Philips L2"
+            },
+            {
+                "index": 163,
+                "name": "O'Neil Bend",
+                "file": "Philips O'Neil Bend"
+            },
+            {
+                "index": 163,
+                "name": "O'Neill Crash",
+                "file": "Philips O'Neill Crash"
+            },
+            {
+                "index": 163,
+                "name": "SBC HP910",
+                "file": "Philips SBC HP910"
+            },
+            {
+                "index": 163,
+                "name": "SHE 3590",
+                "file": "Philips SHE 3590"
+            },
+            {
+                "index": 163,
+                "name": "SHL 3000",
+                "file": "Philips SHL 3000"
+            }
+        ]
+    },
+    {
+        "name": "Phonon",
+        "phones": [
+            {
+                "index": 164,
+                "name": "SMB2",
+                "file": "Phonon SMB2"
+            }
+        ]
+    },
+    {
+        "name": "Pioneer",
+        "phones": [
+            {
+                "index": 165,
+                "name": "HDJ-1000",
+                "file": "Pioneer HDJ-1000"
+            },
+            {
+                "index": 165,
+                "name": "HDJ-2000",
+                "file": "Pioneer HDJ-2000"
+            },
+            {
+                "index": 165,
+                "name": "HDJ-500",
+                "file": "Pioneer HDJ-500"
+            },
+            {
+                "index": 165,
+                "name": "Loop SEMJ31V modified by nickn",
+                "file": "Pioneer Loop SEMJ31V modified by nickn"
+            },
+            {
+                "index": 165,
+                "name": "Monitor 10 II B in box",
+                "file": "Pioneer Monitor 10 II B in box"
+            },
+            {
+                "index": 165,
+                "name": "Monitor 10 II",
+                "file": "Pioneer Monitor 10 II"
+            },
+            {
+                "index": 165,
+                "name": "SE Master 1",
+                "file": "Pioneer SE Master 1"
+            },
+            {
+                "index": 165,
+                "name": "SE-A1000",
+                "file": "Pioneer SE-A1000"
+            },
+            {
+                "index": 165,
+                "name": "SE-M290",
+                "file": "Pioneer SE-M290"
+            },
+            {
+                "index": 165,
+                "name": "SE-MJ31",
+                "file": "Pioneer SE-MJ31"
+            },
+            {
+                "index": 165,
+                "name": "SE500 modified by Takato14",
+                "file": "Pioneer SE500 modified by Takato14"
+            },
+            {
+                "index": 165,
+                "name": "SE500 modified by ilikepie116",
+                "file": "Pioneer SE500 modified by ilikepie116"
+            }
+        ]
+    },
+    {
+        "name": "Plantronic",
+        "phones": [
+            {
+                "index": 167,
+                "name": "BackBeat 500 Wired",
+                "file": "Plantronic BackBeat 500 Wired"
+            },
+            {
+                "index": 167,
+                "name": "BackBeat 500 Wireless",
+                "file": "Plantronic BackBeat 500 Wireless"
+            }
+        ]
+    },
+    {
+        "name": "Plugged",
+        "phones": [
+            {
+                "index": 168,
+                "name": "Crown",
+                "file": "Plugged Crown"
+            }
+        ]
+    },
+    {
+        "name": "Polk",
+        "phones": [
+            {
+                "index": 169,
+                "name": "Audio UltraFit 2000",
+                "file": "Polk Audio UltraFit 2000"
+            },
+            {
+                "index": 169,
+                "name": "Audio UltraFit 2000 Sample B",
+                "file": "Polk Audio UltraFit 2000 Sample B"
+            },
+            {
+                "index": 169,
+                "name": "Audio UltraFocus 8000",
+                "file": "Polk Audio UltraFocus 8000"
+            },
+            {
+                "index": 169,
+                "name": "Buckle",
+                "file": "Polk Buckle"
+            },
+            {
+                "index": 169,
+                "name": "Hinge",
+                "file": "Polk Hinge"
+            },
+            {
+                "index": 169,
+                "name": "Melee",
+                "file": "Polk Melee"
+            }
+        ]
+    },
+    {
+        "name": "RHA",
+        "phones": [
+            {
+                "index": 176,
+                "name": "SA950i",
+                "file": "RHA SA950i"
+            }
+        ]
+    },
+    {
+        "name": "Reid and Heath Acoustics",
+        "phones": [
+            {
+                "index": 182,
+                "name": "SA-850",
+                "file": "Reid and Heath Acoustics SA-850"
+            }
+        ]
+    },
+    {
+        "name": "SMS",
+        "phones": [
+            {
+                "index": 187,
+                "name": "DJ Pro",
+                "file": "SMS DJ Pro"
+            },
+            {
+                "index": 187,
+                "name": "Over Ear ANC",
+                "file": "SMS Over Ear ANC"
+            },
+            {
+                "index": 187,
+                "name": "Street by 50",
+                "file": "SMS Street by 50"
+            },
+            {
+                "index": 187,
+                "name": "Sync by 50",
+                "file": "SMS Sync by 50"
+            }
+        ]
+    },
+    {
+        "name": "SOL Republic",
+        "phones": [
+            {
+                "index": 189,
+                "name": "Tracks XC",
+                "file": "SOL Republic Tracks XC"
+            }
+        ]
+    },
+    {
+        "name": "Samsung",
+        "phones": [
+            {
+                "index": 192,
+                "name": "Level On",
+                "file": "Samsung Level On"
+            }
+        ]
+    },
+    {
+        "name": "Sansui",
+        "phones": [
+            {
+                "index": 193,
+                "name": "SS100",
+                "file": "Sansui SS100"
+            },
+            {
+                "index": 193,
+                "name": "SS100 Measurement C",
+                "file": "Sansui SS100 Measurement C"
+            },
+            {
+                "index": 193,
+                "name": "SS100 modified by Takato14",
+                "file": "Sansui SS100 modified by Takato14"
+            },
+            {
+                "index": 193,
+                "name": "SS35",
+                "file": "Sansui SS35"
+            },
+            {
+                "index": 193,
+                "name": "SS35 Pads Off",
+                "file": "Sansui SS35 Pads Off"
+            }
+        ]
+    },
+    {
+        "name": "Sennheiser",
+        "phones": [
+            {
+                "index": 195,
+                "name": "Amperior",
+                "file": "Sennheiser Amperior"
+            },
+            {
+                "index": 195,
+                "name": "HD 1 Wired Passive",
+                "file": "Sennheiser HD 1 Wired Passive"
+            },
+            {
+                "index": 195,
+                "name": "HD 201",
+                "file": "Sennheiser HD 201"
+            },
+            {
+                "index": 195,
+                "name": "HD 202",
+                "file": "Sennheiser HD 202"
+            },
+            {
+                "index": 195,
+                "name": "HD 218",
+                "file": "Sennheiser HD 218"
+            },
+            {
+                "index": 195,
+                "name": "HD 219",
+                "file": "Sennheiser HD 219"
+            },
+            {
+                "index": 195,
+                "name": "HD 228",
+                "file": "Sennheiser HD 228"
+            },
+            {
+                "index": 195,
+                "name": "HD 229",
+                "file": "Sennheiser HD 229"
+            },
+            {
+                "index": 195,
+                "name": "HD 238",
+                "file": "Sennheiser HD 238"
+            },
+            {
+                "index": 195,
+                "name": "HD 239",
+                "file": "Sennheiser HD 239"
+            },
+            {
+                "index": 195,
+                "name": "HD 25 Aluminum",
+                "file": "Sennheiser HD 25 Aluminum"
+            },
+            {
+                "index": 195,
+                "name": "HD 25-1 II B2012",
+                "file": "Sennheiser HD 25-1 II B2012"
+            },
+            {
+                "index": 195,
+                "name": "HD 25-1 II",
+                "file": "Sennheiser HD 25-1 II"
+            },
+            {
+                "index": 195,
+                "name": "HD 25-1",
+                "file": "Sennheiser HD 25-1"
+            },
+            {
+                "index": 195,
+                "name": "HD 250 II",
+                "file": "Sennheiser HD 250 II"
+            },
+            {
+                "index": 195,
+                "name": "HD 280 Pro",
+                "file": "Sennheiser HD 280 Pro"
+            },
+            {
+                "index": 195,
+                "name": "HD 380 Pro",
+                "file": "Sennheiser HD 380 Pro"
+            },
+            {
+                "index": 195,
+                "name": "HD 4.40BT Wired Passive",
+                "file": "Sennheiser HD 4.40BT Wired Passive"
+            },
+            {
+                "index": 195,
+                "name": "HD 4.40BT Wireless",
+                "file": "Sennheiser HD 4.40BT Wireless"
+            },
+            {
+                "index": 195,
+                "name": "HD 4.50BTNC Wired NC On",
+                "file": "Sennheiser HD 4.50BTNC Wired NC On"
+            },
+            {
+                "index": 195,
+                "name": "HD 4.50BTNC Wired Passive",
+                "file": "Sennheiser HD 4.50BTNC Wired Passive"
+            },
+            {
+                "index": 195,
+                "name": "HD 414",
+                "file": "Sennheiser HD 414"
+            },
+            {
+                "index": 195,
+                "name": "HD 419",
+                "file": "Sennheiser HD 419"
+            },
+            {
+                "index": 195,
+                "name": "HD 424",
+                "file": "Sennheiser HD 424"
+            },
+            {
+                "index": 195,
+                "name": "HD 429",
+                "file": "Sennheiser HD 429"
+            },
+            {
+                "index": 195,
+                "name": "HD 439",
+                "file": "Sennheiser HD 439"
+            },
+            {
+                "index": 195,
+                "name": "HD 448",
+                "file": "Sennheiser HD 448"
+            },
+            {
+                "index": 195,
+                "name": "HD 449",
+                "file": "Sennheiser HD 449"
+            },
+            {
+                "index": 195,
+                "name": "HD 471i",
+                "file": "Sennheiser HD 471i"
+            },
+            {
+                "index": 195,
+                "name": "HD 560 Ovation II",
+                "file": "Sennheiser HD 560 Ovation II"
+            },
+            {
+                "index": 195,
+                "name": "HD 565 Ovation",
+                "file": "Sennheiser HD 565 Ovation"
+            },
+            {
+                "index": 195,
+                "name": "HD 569",
+                "file": "Sennheiser HD 569"
+            },
+            {
+                "index": 195,
+                "name": "HD 575",
+                "file": "Sennheiser HD 575"
+            },
+            {
+                "index": 195,
+                "name": "HD 580 with HD 600 Headband",
+                "file": "Sennheiser HD 580 with HD 600 Headband"
+            },
+            {
+                "index": 195,
+                "name": "HD 595",
+                "file": "Sennheiser HD 595"
+            },
+            {
+                "index": 195,
+                "name": "HD 598",
+                "file": "Sennheiser HD 598"
+            },
+            {
+                "index": 195,
+                "name": "HD 600",
+                "file": "Sennheiser HD 600"
+            },
+            {
+                "index": 195,
+                "name": "HD 650",
+                "file": "Sennheiser HD 650"
+            },
+            {
+                "index": 195,
+                "name": "HD 650 modified by by Hands",
+                "file": "Sennheiser HD 650 modified by by Hands"
+            },
+            {
+                "index": 195,
+                "name": "HD 660 S",
+                "file": "Sennheiser HD 660 S"
+            },
+            {
+                "index": 195,
+                "name": "HD 6DJ",
+                "file": "Sennheiser HD 6DJ"
+            },
+            {
+                "index": 195,
+                "name": "HD 6XX",
+                "file": "Sennheiser HD 6XX"
+            },
+            {
+                "index": 195,
+                "name": "HD 700",
+                "file": "Sennheiser HD 700"
+            },
+            {
+                "index": 195,
+                "name": "HD 700 modified by Takato14 Damping Filter 1 and 2",
+                "file": "Sennheiser HD 700 modified by Takato14 Damping Filter 1 and 2"
+            },
+            {
+                "index": 195,
+                "name": "HD 700 modified by Takato14",
+                "file": "Sennheiser HD 700 modified by Takato14"
+            },
+            {
+                "index": 195,
+                "name": "HD 7DJ",
+                "file": "Sennheiser HD 7DJ"
+            },
+            {
+                "index": 195,
+                "name": "HD 800 B",
+                "file": "Sennheiser HD 800 B"
+            },
+            {
+                "index": 195,
+                "name": "HD 800",
+                "file": "Sennheiser HD 800"
+            },
+            {
+                "index": 195,
+                "name": "HD 800 S",
+                "file": "Sennheiser HD 800 S"
+            },
+            {
+                "index": 195,
+                "name": "HD 800 S sn01067",
+                "file": "Sennheiser HD 800 S sn01067"
+            },
+            {
+                "index": 195,
+                "name": "HD 800 S sn01070",
+                "file": "Sennheiser HD 800 S sn01070"
+            },
+            {
+                "index": 195,
+                "name": "HD 8DJ",
+                "file": "Sennheiser HD 8DJ"
+            },
+            {
+                "index": 195,
+                "name": "HD800 sn15001 Superdupont Resonator",
+                "file": "Sennheiser HD800 sn15001 Superdupont Resonator"
+            },
+            {
+                "index": 195,
+                "name": "HD800 sn15001 Superdupont Resonator and SBAF Mods",
+                "file": "Sennheiser HD800 sn15001 Superdupont Resonator and SBAF Mods"
+            },
+            {
+                "index": 195,
+                "name": "HE 60",
+                "file": "Sennheiser HE 60"
+            },
+            {
+                "index": 195,
+                "name": "Momentum",
+                "file": "Sennheiser Momentum"
+            },
+            {
+                "index": 195,
+                "name": "Momentum M2",
+                "file": "Sennheiser Momentum M2"
+            },
+            {
+                "index": 195,
+                "name": "Momentum M2 OEBT Wireless Wired Passive",
+                "file": "Sennheiser Momentum M2 OEBT Wireless Wired Passive"
+            }
+        ]
+    },
+    {
+        "name": "Shure",
+        "phones": [
+            {
+                "index": 197,
+                "name": "SRH1440",
+                "file": "Shure SRH1440"
+            },
+            {
+                "index": 197,
+                "name": "SRH1540",
+                "file": "Shure SRH1540"
+            },
+            {
+                "index": 197,
+                "name": "SRH1840",
+                "file": "Shure SRH1840"
+            },
+            {
+                "index": 197,
+                "name": "SRH440",
+                "file": "Shure SRH440"
+            },
+            {
+                "index": 197,
+                "name": "SRH750DJ",
+                "file": "Shure SRH750DJ"
+            },
+            {
+                "index": 197,
+                "name": "SRH840",
+                "file": "Shure SRH840"
+            },
+            {
+                "index": 197,
+                "name": "SRH940",
+                "file": "Shure SRH940"
+            }
+        ]
+    },
+    {
+        "name": "Skullcandy",
+        "phones": [
+            {
+                "index": 199,
+                "name": "Aviators No Lens",
+                "file": "Skullcandy Aviators No Lens"
+            },
+            {
+                "index": 199,
+                "name": "Crusher",
+                "file": "Skullcandy Crusher"
+            },
+            {
+                "index": 199,
+                "name": "Crusher Wireless Wired Sub 100 Percent",
+                "file": "Skullcandy Crusher Wireless Wired Sub 100 Percent"
+            },
+            {
+                "index": 199,
+                "name": "Crusher Wireless Wired Sub 30 Percent",
+                "file": "Skullcandy Crusher Wireless Wired Sub 30 Percent"
+            },
+            {
+                "index": 199,
+                "name": "Crusher Wireless Wired Sub Off",
+                "file": "Skullcandy Crusher Wireless Wired Sub Off"
+            },
+            {
+                "index": 199,
+                "name": "Grind",
+                "file": "Skullcandy Grind"
+            },
+            {
+                "index": 199,
+                "name": "Hesh 2",
+                "file": "Skullcandy Hesh 2"
+            },
+            {
+                "index": 199,
+                "name": "Mix Master",
+                "file": "Skullcandy Mix Master"
+            },
+            {
+                "index": 199,
+                "name": "Navigator",
+                "file": "Skullcandy Navigator"
+            },
+            {
+                "index": 199,
+                "name": "Roc Nation Aviator",
+                "file": "Skullcandy Roc Nation Aviator"
+            }
+        ]
+    },
+    {
+        "name": "Sol",
+        "phones": [
+            {
+                "index": 200,
+                "name": "Republic Tracks B",
+                "file": "Sol Republic Tracks B"
+            },
+            {
+                "index": 200,
+                "name": "Republic Tracks",
+                "file": "Sol Republic Tracks"
+            }
+        ]
+    },
+    {
+        "name": "Sonoma",
+        "phones": [
+            {
+                "index": 201,
+                "name": "Model One",
+                "file": "Sonoma Model One"
+            }
+        ]
+    },
+    {
+        "name": "Sony",
+        "phones": [
+            {
+                "index": 202,
+                "name": "DR-Z7",
+                "file": "Sony DR-Z7"
+            },
+            {
+                "index": 202,
+                "name": "MDR-1000X Wired ANC Active",
+                "file": "Sony MDR-1000X Wired ANC Active"
+            },
+            {
+                "index": 202,
+                "name": "MDR-1000X Wired Passive",
+                "file": "Sony MDR-1000X Wired Passive"
+            },
+            {
+                "index": 202,
+                "name": "MDR-1000X Wireless ANC Active",
+                "file": "Sony MDR-1000X Wireless ANC Active"
+            },
+            {
+                "index": 202,
+                "name": "MDR-1000X Wireless ANC Off",
+                "file": "Sony MDR-1000X Wireless ANC Off"
+            },
+            {
+                "index": 202,
+                "name": "MDR-1R",
+                "file": "Sony MDR-1R"
+            }
+        ]
+    },
+    {
+        "name": "Soul",
+        "phones": [
+            {
+                "index": 203,
+                "name": "Combat",
+                "file": "Soul Combat"
+            },
+            {
+                "index": 203,
+                "name": "Jet Pro ANC Off",
+                "file": "Soul Jet Pro ANC Off"
+            },
+            {
+                "index": 203,
+                "name": "Jet Pro ANC On",
+                "file": "Soul Jet Pro ANC On"
+            },
+            {
+                "index": 203,
+                "name": "by Ludacris SL100",
+                "file": "Soul by Ludacris SL100"
+            },
+            {
+                "index": 203,
+                "name": "by Ludacris SL150",
+                "file": "Soul by Ludacris SL150"
+            },
+            {
+                "index": 203,
+                "name": "by Ludacris SL300",
+                "file": "Soul by Ludacris SL300"
+            }
+        ]
+    },
+    {
+        "name": "SoundMAGIC",
+        "phones": [
+            {
+                "index": 205,
+                "name": "HP100",
+                "file": "SoundMAGIC HP100"
+            },
+            {
+                "index": 205,
+                "name": "HP200",
+                "file": "SoundMAGIC HP200"
+            }
+        ]
+    },
+    {
+        "name": "Spider",
+        "phones": [
+            {
+                "index": 207,
+                "name": "PowerForce",
+                "file": "Spider PowerForce"
+            }
+        ]
+    },
+    {
+        "name": "Status",
+        "phones": [
+            {
+                "index": 208,
+                "name": "SMCB1",
+                "file": "Status SMCB1"
+            },
+            {
+                "index": 208,
+                "name": "SMOB1",
+                "file": "Status SMOB1"
+            }
+        ]
+    },
+    {
+        "name": "Stax",
+        "phones": [
+            {
+                "index": 210,
+                "name": "4070",
+                "file": "Stax 4070"
+            },
+            {
+                "index": 210,
+                "name": "Lambda Nova Signature",
+                "file": "Stax Lambda Nova Signature"
+            },
+            {
+                "index": 210,
+                "name": "Lambda SB snA19858",
+                "file": "Stax Lambda SB snA19858"
+            },
+            {
+                "index": 210,
+                "name": "SR Lambda Signature",
+                "file": "Stax SR Lambda Signature"
+            },
+            {
+                "index": 210,
+                "name": "SR Sigma sn07381",
+                "file": "Stax SR Sigma sn07381"
+            },
+            {
+                "index": 210,
+                "name": "SR-007",
+                "file": "Stax SR-007"
+            },
+            {
+                "index": 210,
+                "name": "SR-007 snSZ31576",
+                "file": "Stax SR-007 snSZ31576"
+            },
+            {
+                "index": 210,
+                "name": "SR-009",
+                "file": "Stax SR-009"
+            },
+            {
+                "index": 210,
+                "name": "SR-009 snSZ91278",
+                "file": "Stax SR-009 snSZ91278"
+            },
+            {
+                "index": 210,
+                "name": "SR-009 snSZ91278 after burn-in",
+                "file": "Stax SR-009 snSZ91278 after burn-in"
+            },
+            {
+                "index": 210,
+                "name": "SR-009 snSZ92251 KGSS",
+                "file": "Stax SR-009 snSZ92251 KGSS"
+            },
+            {
+                "index": 210,
+                "name": "SR-1",
+                "file": "Stax SR-1"
+            },
+            {
+                "index": 210,
+                "name": "SR-207 EP507 Leather Pads snSB22217",
+                "file": "Stax SR-207 EP507 Leather Pads snSB22217"
+            },
+            {
+                "index": 210,
+                "name": "SR-207 snSB2217",
+                "file": "Stax SR-207 snSB2217"
+            },
+            {
+                "index": 210,
+                "name": "SR-3",
+                "file": "Stax SR-3"
+            },
+            {
+                "index": 210,
+                "name": "SR-40 Electret SR4 Adapter",
+                "file": "Stax SR-40 Electret SR4 Adapter"
+            },
+            {
+                "index": 210,
+                "name": "SR-404 Ltd snSSL0670",
+                "file": "Stax SR-404 Ltd snSSL0670"
+            },
+            {
+                "index": 210,
+                "name": "SR-404 snS2742",
+                "file": "Stax SR-404 snS2742"
+            },
+            {
+                "index": 210,
+                "name": "SR-507 snSE11049",
+                "file": "Stax SR-507 snSE11049"
+            },
+            {
+                "index": 210,
+                "name": "SR-Alpha Pro Excellent",
+                "file": "Stax SR-Alpha Pro Excellent"
+            },
+            {
+                "index": 210,
+                "name": "SR-Alpha Pro with Yax1 Pads",
+                "file": "Stax SR-Alpha Pro with Yax1 Pads"
+            },
+            {
+                "index": 210,
+                "name": "SR-Gamma Pro",
+                "file": "Stax SR-Gamma Pro"
+            },
+            {
+                "index": 210,
+                "name": "SR-L300",
+                "file": "Stax SR-L300"
+            },
+            {
+                "index": 210,
+                "name": "SR-X Mk3 Pro",
+                "file": "Stax SR-X Mk3 Pro"
+            }
+        ]
+    },
+    {
+        "name": "Sterling",
+        "phones": [
+            {
+                "index": 212,
+                "name": "Te-400",
+                "file": "Sterling Te-400"
+            }
+        ]
+    },
+    {
+        "name": "Superlux",
+        "phones": [
+            {
+                "index": 213,
+                "name": "HD 668B",
+                "file": "Superlux HD 668B"
+            },
+            {
+                "index": 213,
+                "name": "HD 681",
+                "file": "Superlux HD 681"
+            }
+        ]
+    },
+    {
+        "name": "TEAC",
+        "phones": [
+            {
+                "index": 219,
+                "name": "CT-H02",
+                "file": "TEAC CT-H02"
+            }
+        ]
+    },
+    {
+        "name": "Takstar",
+        "phones": [
+            {
+                "index": 223,
+                "name": "Pro 80",
+                "file": "Takstar Pro 80"
+            }
+        ]
+    },
+    {
+        "name": "TekNmotion",
+        "phones": [
+            {
+                "index": 226,
+                "name": "London Underground",
+                "file": "TekNmotion London Underground"
+            }
+        ]
+    },
+    {
+        "name": "Thinksound",
+        "phones": [
+            {
+                "index": 229,
+                "name": "On1",
+                "file": "Thinksound On1"
+            }
+        ]
+    },
+    {
+        "name": "Torque",
+        "phones": [
+            {
+                "index": 230,
+                "name": "t402v On-Ear Black",
+                "file": "Torque t402v On-Ear Black"
+            }
+        ]
+    },
+    {
+        "name": "Toshiba",
+        "phones": [
+            {
+                "index": 231,
+                "name": "HR-810 Low Gain",
+                "file": "Toshiba HR-810 Low Gain"
+            }
+        ]
+    },
+    {
+        "name": "UAL",
+        "phones": [
+            {
+                "index": 234,
+                "name": "Flight 962",
+                "file": "UAL Flight 962"
+            }
+        ]
+    },
+    {
+        "name": "Ultrasone",
+        "phones": [
+            {
+                "index": 237,
+                "name": "Edition 10",
+                "file": "Ultrasone Edition 10"
+            },
+            {
+                "index": 237,
+                "name": "Edition 8",
+                "file": "Ultrasone Edition 8"
+            },
+            {
+                "index": 237,
+                "name": "HFI-2400",
+                "file": "Ultrasone HFI-2400"
+            },
+            {
+                "index": 237,
+                "name": "HFI-450",
+                "file": "Ultrasone HFI-450"
+            },
+            {
+                "index": 237,
+                "name": "HFI-780",
+                "file": "Ultrasone HFI-780"
+            },
+            {
+                "index": 237,
+                "name": "PRO 2900",
+                "file": "Ultrasone PRO 2900"
+            },
+            {
+                "index": 237,
+                "name": "PRO 550",
+                "file": "Ultrasone PRO 550"
+            },
+            {
+                "index": 237,
+                "name": "PRO 650",
+                "file": "Ultrasone PRO 650"
+            },
+            {
+                "index": 237,
+                "name": "PRO 900",
+                "file": "Ultrasone PRO 900"
+            },
+            {
+                "index": 237,
+                "name": "Signature Pro",
+                "file": "Ultrasone Signature Pro"
+            },
+            {
+                "index": 237,
+                "name": "Zino",
+                "file": "Ultrasone Zino"
+            }
+        ]
+    },
+    {
+        "name": "V-Moda",
+        "phones": [
+            {
+                "index": 240,
+                "name": "Crossfade LP",
+                "file": "V-Moda Crossfade LP"
+            },
+            {
+                "index": 240,
+                "name": "Crossfade LP2",
+                "file": "V-Moda Crossfade LP2"
+            }
+        ]
+    },
+    {
+        "name": "Wharfedale",
+        "phones": [
+            {
+                "index": 247,
+                "name": "Isodynamic modified by dBel84",
+                "file": "Wharfedale Isodynamic modified by dBel84"
+            }
+        ]
+    },
+    {
+        "name": "Wiss Audio",
+        "phones": [
+            {
+                "index": 249,
+                "name": "On Ear Force 1 HP P244",
+                "file": "Wiss Audio On Ear Force 1 HP P244"
+            }
+        ]
+    },
+    {
+        "name": "Yamaha",
+        "phones": [
+            {
+                "index": 255,
+                "name": "HP-1",
+                "file": "Yamaha HP-1"
+            },
+            {
+                "index": 255,
+                "name": "HP-1 sn051712",
+                "file": "Yamaha HP-1 sn051712"
+            },
+            {
+                "index": 255,
+                "name": "HP-3",
+                "file": "Yamaha HP-3"
+            },
+            {
+                "index": 255,
+                "name": "HP-50A modified by dBel84",
+                "file": "Yamaha HP-50A modified by dBel84"
+            },
+            {
+                "index": 255,
+                "name": "HPH-MT220",
+                "file": "Yamaha HPH-MT220"
+            },
+            {
+                "index": 255,
+                "name": "Pro300",
+                "file": "Yamaha Pro300"
+            },
+            {
+                "index": 255,
+                "name": "Pro400",
+                "file": "Yamaha Pro400"
+            },
+            {
+                "index": 255,
+                "name": "Pro500",
+                "file": "Yamaha Pro500"
+            },
+            {
+                "index": 255,
+                "name": "YH-100 sn130216",
+                "file": "Yamaha YH-100 sn130216"
+            },
+            {
+                "index": 255,
+                "name": "YH-3 modified by rhythmdevils",
+                "file": "Yamaha YH-3 modified by rhythmdevils"
+            },
+            {
+                "index": 255,
+                "name": "YH-3 sn180629",
+                "file": "Yamaha YH-3 sn180629"
+            },
+            {
+                "index": 255,
+                "name": "YH-D2 modified by dBel84",
+                "file": "Yamaha YH-D2 modified by dBel84"
+            }
+        ]
+    },
+    {
+        "name": "ZMF",
+        "phones": [
+            {
+                "index": 258,
+                "name": "Atticus",
+                "file": "ZMF Atticus"
+            },
+            {
+                "index": 258,
+                "name": "Eikon",
+                "file": "ZMF Eikon"
+            }
+        ]
+    },
+    {
+        "name": "oBravo",
+        "phones": [
+            {
+                "index": 264,
+                "name": "HAMT-1",
+                "file": "oBravo HAMT-1"
+            }
+        ]
+    }
+]

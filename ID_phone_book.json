@@ -1,0 +1,2017 @@
+[
+    {
+        "name": "1 More",
+        "phones": [
+            {
+                "index": 0,
+                "name": "Triple Driver IEM",
+                "file": "1 More Triple Driver IEM"
+            },
+            {
+                "index": 0,
+                "name": "Voice of China",
+                "file": "1 More Voice of China"
+            }
+        ]
+    },
+    {
+        "name": "ADV",
+        "phones": [
+            {
+                "index": 2,
+                "name": "Sound M4",
+                "file": "ADV Sound M4"
+            }
+        ]
+    },
+    {
+        "name": "AKG",
+        "phones": [
+            {
+                "index": 3,
+                "name": "K3003 Bass Boost Filter",
+                "file": "AKG K3003 Bass Boost Filter"
+            },
+            {
+                "index": 3,
+                "name": "K3003 High Boost Filter",
+                "file": "AKG K3003 High Boost Filter"
+            },
+            {
+                "index": 3,
+                "name": "K3003 Reference Filter",
+                "file": "AKG K3003 Reference Filter"
+            },
+            {
+                "index": 3,
+                "name": "K376",
+                "file": "AKG K376"
+            },
+            {
+                "index": 3,
+                "name": "Q350",
+                "file": "AKG Q350"
+            }
+        ]
+    },
+    {
+        "name": "Accidentally Extraordinary",
+        "phones": [
+            {
+                "index": 5,
+                "name": "Bamboo Earbuds",
+                "file": "Accidentally Extraordinary Bamboo Earbuds"
+            }
+        ]
+    },
+    {
+        "name": "Air",
+        "phones": [
+            {
+                "index": 7,
+                "name": "Buds",
+                "file": "Air Buds"
+            }
+        ]
+    },
+    {
+        "name": "Alpha & Delta",
+        "phones": [
+            {
+                "index": 8,
+                "name": "AD01",
+                "file": "Alpha & Delta AD01"
+            }
+        ]
+    },
+    {
+        "name": "Apple",
+        "phones": [
+            {
+                "index": 13,
+                "name": "In-Ear Earphones 2013",
+                "file": "Apple In-Ear Earphones 2013"
+            }
+        ]
+    },
+    {
+        "name": "Astro",
+        "phones": [
+            {
+                "index": 14,
+                "name": "tec AM90",
+                "file": "Astrotec AM90"
+            },
+            {
+                "index": 14,
+                "name": "tec AX35",
+                "file": "Astrotec AX35"
+            },
+            {
+                "index": 14,
+                "name": "tec AX7",
+                "file": "Astrotec AX7"
+            }
+        ]
+    },
+    {
+        "name": "Audeo",
+        "phones": [
+            {
+                "index": 15,
+                "name": "PFE 232",
+                "file": "Audeo PFE 232"
+            },
+            {
+                "index": 15,
+                "name": "PFE Black Filter",
+                "file": "Audeo PFE Black Filter"
+            },
+            {
+                "index": 15,
+                "name": "PFE Gray Filter",
+                "file": "Audeo PFE Gray Filter"
+            },
+            {
+                "index": 15,
+                "name": "PFE Green Filter",
+                "file": "Audeo PFE Green Filter"
+            }
+        ]
+    },
+    {
+        "name": "Audio Technica",
+        "phones": [
+            {
+                "index": 17,
+                "name": "ATH-CKM500",
+                "file": "Audio Technica ATH-CKM500"
+            },
+            {
+                "index": 17,
+                "name": "ATH-CKX5iS",
+                "file": "Audio Technica ATH-CKX5iS"
+            },
+            {
+                "index": 17,
+                "name": "ATH-IM02",
+                "file": "Audio Technica ATH-IM02"
+            }
+        ]
+    },
+    {
+        "name": "Audiofly",
+        "phones": [
+            {
+                "index": 18,
+                "name": "AF140",
+                "file": "Audiofly AF140"
+            },
+            {
+                "index": 18,
+                "name": "AF160",
+                "file": "Audiofly AF160"
+            },
+            {
+                "index": 18,
+                "name": "AF180",
+                "file": "Audiofly AF180"
+            },
+            {
+                "index": 18,
+                "name": "Adagio Club Life",
+                "file": "Audiofly Adagio Club Life"
+            }
+        ]
+    },
+    {
+        "name": "Aurisonic",
+        "phones": [
+            {
+                "index": 19,
+                "name": "Rockets",
+                "file": "Aurisonic Rockets"
+            }
+        ]
+    },
+    {
+        "name": "Beats",
+        "phones": [
+            {
+                "index": 23,
+                "name": "Tours 2014",
+                "file": "Beats Tours 2014"
+            }
+        ]
+    },
+    {
+        "name": "Boqari",
+        "phones": [
+            {
+                "index": 29,
+                "name": "Q1",
+                "file": "Boqari Q1"
+            }
+        ]
+    },
+    {
+        "name": "Bowers & Wilkins",
+        "phones": [
+            {
+                "index": 31,
+                "name": "C5",
+                "file": "Bowers & Wilkins C5"
+            }
+        ]
+    },
+    {
+        "name": "Brainwavz",
+        "phones": [
+            {
+                "index": 32,
+                "name": "M2",
+                "file": "Brainwavz M2"
+            },
+            {
+                "index": 32,
+                "name": "R3",
+                "file": "Brainwavz R3"
+            },
+            {
+                "index": 32,
+                "name": "S0",
+                "file": "Brainwavz S0"
+            },
+            {
+                "index": 32,
+                "name": "S1",
+                "file": "Brainwavz S1"
+            },
+            {
+                "index": 32,
+                "name": "S5",
+                "file": "Brainwavz S5"
+            }
+        ]
+    },
+    {
+        "name": "Cardas",
+        "phones": [
+            {
+                "index": 35,
+                "name": "EM5813",
+                "file": "Cardas EM5813"
+            }
+        ]
+    },
+    {
+        "name": "Creative",
+        "phones": [
+            {
+                "index": 39,
+                "name": "Aurvana In-Ear 3",
+                "file": "Creative Aurvana In-Ear 3"
+            }
+        ]
+    },
+    {
+        "name": "Cyberdrive",
+        "phones": [
+            {
+                "index": 40,
+                "name": "Forte Classic Bass",
+                "file": "Cyberdrive Forte Classic Bass"
+            },
+            {
+                "index": 40,
+                "name": "Forte Classic Soprano",
+                "file": "Cyberdrive Forte Classic Soprano"
+            },
+            {
+                "index": 40,
+                "name": "Forte Impact Bass",
+                "file": "Cyberdrive Forte Impact Bass"
+            }
+        ]
+    },
+    {
+        "name": "Cypher Labs",
+        "phones": [
+            {
+                "index": 41,
+                "name": "Astru IEM Bass Boost On",
+                "file": "Cypher Labs Astru IEM Bass Boost On"
+            },
+            {
+                "index": 41,
+                "name": "Astru IEM",
+                "file": "Cypher Labs Astru IEM"
+            }
+        ]
+    },
+    {
+        "name": "Denon",
+        "phones": [
+            {
+                "index": 42,
+                "name": "AH-C360",
+                "file": "Denon AH-C360"
+            },
+            {
+                "index": 42,
+                "name": "AH-C551",
+                "file": "Denon AH-C551"
+            },
+            {
+                "index": 42,
+                "name": "AH-C560R",
+                "file": "Denon AH-C560R"
+            },
+            {
+                "index": 42,
+                "name": "AH-C710",
+                "file": "Denon AH-C710"
+            }
+        ]
+    },
+    {
+        "name": "Dunu",
+        "phones": [
+            {
+                "index": 46,
+                "name": "DN1000",
+                "file": "Dunu DN1000"
+            },
+            {
+                "index": 46,
+                "name": "DN2000",
+                "file": "Dunu DN2000"
+            },
+            {
+                "index": 46,
+                "name": "DN2000J",
+                "file": "Dunu DN2000J"
+            },
+            {
+                "index": 46,
+                "name": "DN900",
+                "file": "Dunu DN900"
+            },
+            {
+                "index": 46,
+                "name": "Titan 1",
+                "file": "Dunu Titan 1"
+            },
+            {
+                "index": 46,
+                "name": "Titan 3",
+                "file": "Dunu Titan 3"
+            },
+            {
+                "index": 46,
+                "name": "Titan 5",
+                "file": "Dunu Titan 5"
+            }
+        ]
+    },
+    {
+        "name": "Earsonics",
+        "phones": [
+            {
+                "index": 51,
+                "name": "Velvet Pot CCW",
+                "file": "Earsonics Velvet Pot CCW"
+            },
+            {
+                "index": 51,
+                "name": "Velvet Pot CW",
+                "file": "Earsonics Velvet Pot CW"
+            },
+            {
+                "index": 51,
+                "name": "Velvet Pot Centered",
+                "file": "Earsonics Velvet Pot Centered"
+            }
+        ]
+    },
+    {
+        "name": "Echobox",
+        "phones": [
+            {
+                "index": 52,
+                "name": "Finder X1 Black Filter",
+                "file": "Echobox Finder X1 Black Filter"
+            },
+            {
+                "index": 52,
+                "name": "Finder X1 Red Filter",
+                "file": "Echobox Finder X1 Red Filter"
+            },
+            {
+                "index": 52,
+                "name": "Finder X1 White Filter",
+                "file": "Echobox Finder X1 White Filter"
+            }
+        ]
+    },
+    {
+        "name": "Etymotic",
+        "phones": [
+            {
+                "index": 53,
+                "name": "EK5",
+                "file": "Etymotic EK5"
+            },
+            {
+                "index": 53,
+                "name": "ER4PT",
+                "file": "Etymotic ER4PT"
+            },
+            {
+                "index": 53,
+                "name": "ER4SR",
+                "file": "Etymotic ER4SR"
+            },
+            {
+                "index": 53,
+                "name": "ER4XR",
+                "file": "Etymotic ER4XR"
+            },
+            {
+                "index": 53,
+                "name": "MK5",
+                "file": "Etymotic MK5"
+            },
+            {
+                "index": 53,
+                "name": "mc3",
+                "file": "Etymotic mc3"
+            }
+        ]
+    },
+    {
+        "name": "FLC Technologies",
+        "phones": [
+            {
+                "index": 55,
+                "name": "FLC8 Filters Gray (LF) Gray (ULF) Black (HF)",
+                "file": "FLC Technologies FLC8 Filters Gray (LF) Gray (ULF) Black (HF)"
+            },
+            {
+                "index": 55,
+                "name": "FLC8 Filters Gray (LF) Gray (ULF) Blue (HF)",
+                "file": "FLC Technologies FLC8 Filters Gray (LF) Gray (ULF) Blue (HF)"
+            },
+            {
+                "index": 55,
+                "name": "FLC8 Light Music Filters Gray (LF) Gray (ULF) Blue (HF)",
+                "file": "FLC Technologies FLC8 Light Music Filters Gray (LF) Gray (ULF) Blue (HF)"
+            },
+            {
+                "index": 55,
+                "name": "FLC8 Pop Rap Filters Black (LF) Gray (ULF) Black (HF)",
+                "file": "FLC Technologies FLC8 Pop Rap Filters Black (LF) Gray (ULF) Black (HF)"
+            },
+            {
+                "index": 55,
+                "name": "FLC8 Strings Piano Filters Clear (LF) Clear (ULF) Green (HF)",
+                "file": "FLC Technologies FLC8 Strings Piano Filters Clear (LF) Clear (ULF) Green (HF)"
+            },
+            {
+                "index": 55,
+                "name": "FLC8 Vocals Filters Clear (LF) Clear (ULF) Yellow (HF)",
+                "file": "FLC Technologies FLC8 Vocals Filters Clear (LF) Clear (ULF) Yellow (HF)"
+            }
+        ]
+    },
+    {
+        "name": "Fender",
+        "phones": [
+            {
+                "index": 56,
+                "name": "FXA6",
+                "file": "Fender FXA6"
+            }
+        ]
+    },
+    {
+        "name": "Fidue",
+        "phones": [
+            {
+                "index": 57,
+                "name": "A31s",
+                "file": "Fidue A31s"
+            },
+            {
+                "index": 57,
+                "name": "A63",
+                "file": "Fidue A63"
+            },
+            {
+                "index": 57,
+                "name": "A65",
+                "file": "Fidue A65"
+            },
+            {
+                "index": 57,
+                "name": "A71",
+                "file": "Fidue A71"
+            },
+            {
+                "index": 57,
+                "name": "A81",
+                "file": "Fidue A81"
+            },
+            {
+                "index": 57,
+                "name": "A83",
+                "file": "Fidue A83"
+            }
+        ]
+    },
+    {
+        "name": "Final Audio",
+        "phones": [
+            {
+                "index": 58,
+                "name": "Adagio III",
+                "file": "Final Audio Adagio III"
+            },
+            {
+                "index": 58,
+                "name": "Heaven A",
+                "file": "Final Audio Heaven A"
+            },
+            {
+                "index": 58,
+                "name": "Heaven II",
+                "file": "Final Audio Heaven II"
+            },
+            {
+                "index": 58,
+                "name": "Heaven S",
+                "file": "Final Audio Heaven S"
+            }
+        ]
+    },
+    {
+        "name": "First Harmonic",
+        "phones": [
+            {
+                "index": 59,
+                "name": "IEB6",
+                "file": "First Harmonic IEB6"
+            }
+        ]
+    },
+    {
+        "name": "Fischer Audio",
+        "phones": [
+            {
+                "index": 60,
+                "name": "SBA-03",
+                "file": "Fischer Audio SBA-03"
+            },
+            {
+                "index": 60,
+                "name": "Tandem",
+                "file": "Fischer Audio Tandem"
+            }
+        ]
+    },
+    {
+        "name": "Focal",
+        "phones": [
+            {
+                "index": 62,
+                "name": "Sphear",
+                "file": "Focal Sphear"
+            }
+        ]
+    },
+    {
+        "name": "Fujisan",
+        "phones": [
+            {
+                "index": 63,
+                "name": "Telos",
+                "file": "Fujisan Telos"
+            }
+        ]
+    },
+    {
+        "name": "Grado",
+        "phones": [
+            {
+                "index": 65,
+                "name": "GR8",
+                "file": "Grado GR8"
+            }
+        ]
+    },
+    {
+        "name": "HZSOUND",
+        "phones": [
+            {
+                "index": 66,
+                "name": "HZ-EP001",
+                "file": "HZSOUND HZ-EP001"
+            },
+            {
+                "index": 66,
+                "name": "HZ3",
+                "file": "HZSOUND HZ3"
+            }
+        ]
+    },
+    {
+        "name": "Harman Kardon",
+        "phones": [
+            {
+                "index": 67,
+                "name": "AE",
+                "file": "Harman Kardon AE"
+            },
+            {
+                "index": 67,
+                "name": "NI",
+                "file": "Harman Kardon NI"
+            }
+        ]
+    },
+    {
+        "name": "Havi",
+        "phones": [
+            {
+                "index": 68,
+                "name": "B3 Pro1",
+                "file": "Havi B3 Pro1"
+            }
+        ]
+    },
+    {
+        "name": "HiFiMAN",
+        "phones": [
+            {
+                "index": 69,
+                "name": "RE-262",
+                "file": "HiFiMAN RE-262"
+            },
+            {
+                "index": 69,
+                "name": "RE-272",
+                "file": "HiFiMAN RE-272"
+            },
+            {
+                "index": 69,
+                "name": "RE-300",
+                "file": "HiFiMAN RE-300"
+            },
+            {
+                "index": 69,
+                "name": "RE-400",
+                "file": "HiFiMAN RE-400"
+            },
+            {
+                "index": 69,
+                "name": "RE-600",
+                "file": "HiFiMAN RE-600"
+            }
+        ]
+    },
+    {
+        "name": "HiSound Audio",
+        "phones": [
+            {
+                "index": 70,
+                "name": "BA100",
+                "file": "HiSound Audio BA100"
+            },
+            {
+                "index": 70,
+                "name": "Crystal",
+                "file": "HiSound Audio Crystal"
+            },
+            {
+                "index": 70,
+                "name": "Golden Crystal",
+                "file": "HiSound Audio Golden Crystal"
+            },
+            {
+                "index": 70,
+                "name": "Hiphone HP4",
+                "file": "HiSound Audio Hiphone HP4"
+            },
+            {
+                "index": 70,
+                "name": "Wooduo",
+                "file": "HiSound Audio Wooduo"
+            }
+        ]
+    },
+    {
+        "name": "House of Marley",
+        "phones": [
+            {
+                "index": 71,
+                "name": "Legend",
+                "file": "House of Marley Legend"
+            },
+            {
+                "index": 71,
+                "name": "Smile Jamaica",
+                "file": "House of Marley Smile Jamaica"
+            }
+        ]
+    },
+    {
+        "name": "InEar",
+        "phones": [
+            {
+                "index": 73,
+                "name": "Stage Driver 3",
+                "file": "InEar Stage Driver 3"
+            },
+            {
+                "index": 73,
+                "name": "Stage Driver SD2",
+                "file": "InEar Stage Driver SD2"
+            }
+        ]
+    },
+    {
+        "name": "Ivery",
+        "phones": [
+            {
+                "index": 75,
+                "name": "IS1",
+                "file": "Ivery IS1"
+            }
+        ]
+    },
+    {
+        "name": "JVC",
+        "phones": [
+            {
+                "index": 78,
+                "name": "HA-FR301",
+                "file": "JVC HA-FR301"
+            },
+            {
+                "index": 78,
+                "name": "HA-FXT90",
+                "file": "JVC HA-FXT90"
+            },
+            {
+                "index": 78,
+                "name": "XX Elation HA-FR100X",
+                "file": "JVC XX Elation HA-FR100X"
+            }
+        ]
+    },
+    {
+        "name": "Jays",
+        "phones": [
+            {
+                "index": 81,
+                "name": "a- 5",
+                "file": "Jays a-Jays 5"
+            },
+            {
+                "index": 81,
+                "name": "q-JAY",
+                "file": "Jays q-JAY"
+            }
+        ]
+    },
+    {
+        "name": "KEF",
+        "phones": [
+            {
+                "index": 82,
+                "name": "M200",
+                "file": "KEF M200"
+            }
+        ]
+    },
+    {
+        "name": "Klipsch",
+        "phones": [
+            {
+                "index": 84,
+                "name": "X10",
+                "file": "Klipsch X10"
+            },
+            {
+                "index": 84,
+                "name": "X12i",
+                "file": "Klipsch X12i"
+            },
+            {
+                "index": 84,
+                "name": "X20i",
+                "file": "Klipsch X20i"
+            },
+            {
+                "index": 84,
+                "name": "X6i",
+                "file": "Klipsch X6i"
+            },
+            {
+                "index": 84,
+                "name": "X8i",
+                "file": "Klipsch X8i"
+            }
+        ]
+    },
+    {
+        "name": "LG",
+        "phones": [
+            {
+                "index": 86,
+                "name": "Quadbeat HSS_F420",
+                "file": "LG Quadbeat HSS_F420"
+            }
+        ]
+    },
+    {
+        "name": "Lear",
+        "phones": [
+            {
+                "index": 87,
+                "name": "LUF4C",
+                "file": "Lear LUF4C"
+            },
+            {
+                "index": 87,
+                "name": "LUF4F",
+                "file": "Lear LUF4F"
+            }
+        ]
+    },
+    {
+        "name": "Lenntek",
+        "phones": [
+            {
+                "index": 88,
+                "name": "Pro Series",
+                "file": "Lenntek Pro Series"
+            }
+        ]
+    },
+    {
+        "name": "Life Acoustics",
+        "phones": [
+            {
+                "index": 89,
+                "name": "Pre-Kickstarter",
+                "file": "Life Acoustics Pre-Kickstarter"
+            }
+        ]
+    },
+    {
+        "name": "Logitech",
+        "phones": [
+            {
+                "index": 90,
+                "name": "UE900",
+                "file": "Logitech UE900"
+            }
+        ]
+    },
+    {
+        "name": "MEElectronics",
+        "phones": [
+            {
+                "index": 92,
+                "name": "A161P",
+                "file": "MEElectronics A161P"
+            }
+        ]
+    },
+    {
+        "name": "MOE",
+        "phones": [
+            {
+                "index": 93,
+                "name": "SS01",
+                "file": "MOE SS01"
+            }
+        ]
+    },
+    {
+        "name": "Master&Dynamic",
+        "phones": [
+            {
+                "index": 96,
+                "name": "ME05",
+                "file": "Master&Dynamic ME05"
+            }
+        ]
+    },
+    {
+        "name": "Meze",
+        "phones": [
+            {
+                "index": 97,
+                "name": "11 Deco",
+                "file": "Meze 11 Deco"
+            }
+        ]
+    },
+    {
+        "name": "Monoprice",
+        "phones": [
+            {
+                "index": 100,
+                "name": "8320",
+                "file": "Monoprice 8320"
+            }
+        ]
+    },
+    {
+        "name": "Monster",
+        "phones": [
+            {
+                "index": 101,
+                "name": "Gratitude",
+                "file": "Monster Gratitude"
+            },
+            {
+                "index": 101,
+                "name": "Jamz",
+                "file": "Monster Jamz"
+            },
+            {
+                "index": 101,
+                "name": "Lady Gaga",
+                "file": "Monster Lady Gaga"
+            },
+            {
+                "index": 101,
+                "name": "Miles Davis Tribute",
+                "file": "Monster Miles Davis Tribute"
+            },
+            {
+                "index": 101,
+                "name": "Turbine",
+                "file": "Monster Turbine"
+            },
+            {
+                "index": 101,
+                "name": "Turbine Pro Copper",
+                "file": "Monster Turbine Pro Copper"
+            },
+            {
+                "index": 101,
+                "name": "Turbine Pro Gold",
+                "file": "Monster Turbine Pro Gold"
+            }
+        ]
+    },
+    {
+        "name": "NHT",
+        "phones": [
+            {
+                "index": 105,
+                "name": "Superbuds",
+                "file": "NHT Superbuds"
+            }
+        ]
+    },
+    {
+        "name": "NVX",
+        "phones": [
+            {
+                "index": 106,
+                "name": "EX10S",
+                "file": "NVX EX10S"
+            }
+        ]
+    },
+    {
+        "name": "NarMoo",
+        "phones": [
+            {
+                "index": 107,
+                "name": "B2M",
+                "file": "NarMoo B2M"
+            },
+            {
+                "index": 107,
+                "name": "R1M Black Ports",
+                "file": "NarMoo R1M Black Ports"
+            },
+            {
+                "index": 107,
+                "name": "R1M Gun Metal Ports",
+                "file": "NarMoo R1M Gun Metal Ports"
+            },
+            {
+                "index": 107,
+                "name": "R1M Silver Ports",
+                "file": "NarMoo R1M Silver Ports"
+            },
+            {
+                "index": 107,
+                "name": "S1",
+                "file": "NarMoo S1"
+            },
+            {
+                "index": 107,
+                "name": "W1M",
+                "file": "NarMoo W1M"
+            }
+        ]
+    },
+    {
+        "name": "Noble",
+        "phones": [
+            {
+                "index": 108,
+                "name": "PR P Tuning",
+                "file": "Noble PR P Tuning"
+            },
+            {
+                "index": 108,
+                "name": "PR R Tuning",
+                "file": "Noble PR R Tuning"
+            }
+        ]
+    },
+    {
+        "name": "Nocs",
+        "phones": [
+            {
+                "index": 109,
+                "name": "NS200",
+                "file": "Nocs NS200"
+            },
+            {
+                "index": 109,
+                "name": "NS400",
+                "file": "Nocs NS400"
+            },
+            {
+                "index": 109,
+                "name": "NS800",
+                "file": "Nocs NS800"
+            }
+        ]
+    },
+    {
+        "name": "Noontec",
+        "phones": [
+            {
+                "index": 110,
+                "name": "h Rio",
+                "file": "Noontech Rio"
+            }
+        ]
+    },
+    {
+        "name": "NuForce",
+        "phones": [
+            {
+                "index": 113,
+                "name": "HEM8",
+                "file": "NuForce HEM8"
+            },
+            {
+                "index": 113,
+                "name": "NE-600X",
+                "file": "NuForce NE-600X"
+            },
+            {
+                "index": 113,
+                "name": "NE-700M",
+                "file": "NuForce NE-700M"
+            },
+            {
+                "index": 113,
+                "name": "Primo 8",
+                "file": "NuForce Primo 8"
+            }
+        ]
+    },
+    {
+        "name": "Ocharaku",
+        "phones": [
+            {
+                "index": 115,
+                "name": "Flat4-Kuro Type II",
+                "file": "Ocharaku Flat4-Kuro Type II"
+            }
+        ]
+    },
+    {
+        "name": "Onkyo",
+        "phones": [
+            {
+                "index": 117,
+                "name": "IE-HF300S",
+                "file": "Onkyo IE-HF300S"
+            }
+        ]
+    },
+    {
+        "name": "Ostry",
+        "phones": [
+            {
+                "index": 119,
+                "name": "KC06",
+                "file": "Ostry KC06"
+            }
+        ]
+    },
+    {
+        "name": "PNY",
+        "phones": [
+            {
+                "index": 120,
+                "name": "Midtown",
+                "file": "PNY Midtown"
+            },
+            {
+                "index": 120,
+                "name": "Uptown",
+                "file": "PNY Uptown"
+            }
+        ]
+    },
+    {
+        "name": "PSB",
+        "phones": [
+            {
+                "index": 121,
+                "name": "M4U 4",
+                "file": "PSB M4U 4"
+            }
+        ]
+    },
+    {
+        "name": "Panasonic",
+        "phones": [
+            {
+                "index": 122,
+                "name": "HJE120",
+                "file": "Panasonic HJE120"
+            }
+        ]
+    },
+    {
+        "name": "Paradigm",
+        "phones": [
+            {
+                "index": 123,
+                "name": "Shift E1",
+                "file": "Paradigm Shift E1"
+            },
+            {
+                "index": 123,
+                "name": "Shift E3m",
+                "file": "Paradigm Shift E3m"
+            }
+        ]
+    },
+    {
+        "name": "Phiaton",
+        "phones": [
+            {
+                "index": 125,
+                "name": "MS100BA",
+                "file": "Phiaton MS100BA"
+            },
+            {
+                "index": 125,
+                "name": "Moderna MS200",
+                "file": "Phiaton Moderna MS200"
+            },
+            {
+                "index": 125,
+                "name": "PS 20",
+                "file": "Phiaton PS 20"
+            },
+            {
+                "index": 125,
+                "name": "PS 200",
+                "file": "Phiaton PS 200"
+            },
+            {
+                "index": 125,
+                "name": "PS 210",
+                "file": "Phiaton PS 210"
+            }
+        ]
+    },
+    {
+        "name": "Philips",
+        "phones": [
+            {
+                "index": 126,
+                "name": "Fidelio S1 (Early release 2013)",
+                "file": "Philips Fidelio S1 (Early release 2013)"
+            },
+            {
+                "index": 126,
+                "name": "Fidelio S1 2013",
+                "file": "Philips Fidelio S1 2013"
+            },
+            {
+                "index": 126,
+                "name": "Fidelio S2 (Early release 2013)",
+                "file": "Philips Fidelio S2 (Early release 2013)"
+            },
+            {
+                "index": 126,
+                "name": "Fidelio S2 2013",
+                "file": "Philips Fidelio S2 2013"
+            },
+            {
+                "index": 126,
+                "name": "SME 3580",
+                "file": "Philips SME 3580"
+            },
+            {
+                "index": 126,
+                "name": "TX1",
+                "file": "Philips TX1"
+            },
+            {
+                "index": 126,
+                "name": "TX2",
+                "file": "Philips TX2"
+            }
+        ]
+    },
+    {
+        "name": "Polk Audio",
+        "phones": [
+            {
+                "index": 129,
+                "name": "UltraFit 300",
+                "file": "Polk Audio UltraFit 300"
+            },
+            {
+                "index": 129,
+                "name": "UltraFit 3000",
+                "file": "Polk Audio UltraFit 3000"
+            }
+        ]
+    },
+    {
+        "name": "Popclik",
+        "phones": [
+            {
+                "index": 130,
+                "name": "EVOLO",
+                "file": "Popclik EVOLO"
+            },
+            {
+                "index": 130,
+                "name": "String",
+                "file": "Popclik String"
+            }
+        ]
+    },
+    {
+        "name": "Pump Audio",
+        "phones": [
+            {
+                "index": 131,
+                "name": "Earphones",
+                "file": "Pump Audio Earphones"
+            }
+        ]
+    },
+    {
+        "name": "PureSound",
+        "phones": [
+            {
+                "index": 132,
+                "name": "ClarityOne",
+                "file": "PureSound ClarityOne"
+            }
+        ]
+    },
+    {
+        "name": "RBH",
+        "phones": [
+            {
+                "index": 134,
+                "name": "EP1",
+                "file": "RBH EP1"
+            },
+            {
+                "index": 134,
+                "name": "EP3",
+                "file": "RBH EP3"
+            }
+        ]
+    },
+    {
+        "name": "RHA",
+        "phones": [
+            {
+                "index": 135,
+                "name": "S500i",
+                "file": "RHA S500i"
+            },
+            {
+                "index": 135,
+                "name": "T10i Bass Filter",
+                "file": "RHA T10i Bass Filter"
+            },
+            {
+                "index": 135,
+                "name": "T10i Reference Filter",
+                "file": "RHA T10i Reference Filter"
+            },
+            {
+                "index": 135,
+                "name": "T10i Treble Filter",
+                "file": "RHA T10i Treble Filter"
+            },
+            {
+                "index": 135,
+                "name": "T20 Bass Filter",
+                "file": "RHA T20 Bass Filter"
+            },
+            {
+                "index": 135,
+                "name": "T20 Reference Filter",
+                "file": "RHA T20 Reference Filter"
+            },
+            {
+                "index": 135,
+                "name": "T20 Treble Filter",
+                "file": "RHA T20 Treble Filter"
+            }
+        ]
+    },
+    {
+        "name": "Radius",
+        "phones": [
+            {
+                "index": 138,
+                "name": "HP-TWF41",
+                "file": "Radius HP-TWF41"
+            }
+        ]
+    },
+    {
+        "name": "Reid and Heath Acoustics",
+        "phones": [
+            {
+                "index": 141,
+                "name": "MA-350",
+                "file": "Reid and Heath Acoustics MA-350"
+            },
+            {
+                "index": 141,
+                "name": "MA-450i",
+                "file": "Reid and Heath Acoustics MA-450i"
+            },
+            {
+                "index": 141,
+                "name": "MA-600",
+                "file": "Reid and Heath Acoustics MA-600"
+            },
+            {
+                "index": 141,
+                "name": "MA-750",
+                "file": "Reid and Heath Acoustics MA-750"
+            }
+        ]
+    },
+    {
+        "name": "Rock Jaw",
+        "phones": [
+            {
+                "index": 142,
+                "name": "Alpha Genus, silver filter",
+                "file": "Rock Jaw Alpha Genus, silver filter"
+            }
+        ]
+    },
+    {
+        "name": "RockItSounds",
+        "phones": [
+            {
+                "index": 143,
+                "name": "R30",
+                "file": "RockItSounds R30"
+            }
+        ]
+    },
+    {
+        "name": "Santa Cruz Audio",
+        "phones": [
+            {
+                "index": 150,
+                "name": "SC1000 Active",
+                "file": "Santa Cruz Audio SC1000 Active"
+            },
+            {
+                "index": 150,
+                "name": "SC1000 Passive",
+                "file": "Santa Cruz Audio SC1000 Passive"
+            }
+        ]
+    },
+    {
+        "name": "Sennheiser",
+        "phones": [
+            {
+                "index": 151,
+                "name": "CX1",
+                "file": "Sennheiser CX1"
+            },
+            {
+                "index": 151,
+                "name": "CX2",
+                "file": "Sennheiser CX2"
+            },
+            {
+                "index": 151,
+                "name": "IE 6",
+                "file": "Sennheiser IE 6"
+            },
+            {
+                "index": 151,
+                "name": "IE 800 2013",
+                "file": "Sennheiser IE 800 2013"
+            },
+            {
+                "index": 151,
+                "name": "IE 800",
+                "file": "Sennheiser IE 800"
+            },
+            {
+                "index": 151,
+                "name": "IE 800 Sample C",
+                "file": "Sennheiser IE 800 Sample C"
+            },
+            {
+                "index": 151,
+                "name": "Momentum In Ear",
+                "file": "Sennheiser Momentum In Ear"
+            }
+        ]
+    },
+    {
+        "name": "Shure",
+        "phones": [
+            {
+                "index": 153,
+                "name": "SE215",
+                "file": "Shure SE215"
+            },
+            {
+                "index": 153,
+                "name": "SE315",
+                "file": "Shure SE315"
+            },
+            {
+                "index": 153,
+                "name": "SE425",
+                "file": "Shure SE425"
+            },
+            {
+                "index": 153,
+                "name": "SE530",
+                "file": "Shure SE530"
+            },
+            {
+                "index": 153,
+                "name": "SE535",
+                "file": "Shure SE535"
+            },
+            {
+                "index": 153,
+                "name": "SE846 Black Filter",
+                "file": "Shure SE846 Black Filter"
+            },
+            {
+                "index": 153,
+                "name": "SE846 Blue Filter",
+                "file": "Shure SE846 Blue Filter"
+            },
+            {
+                "index": 153,
+                "name": "SE846 White Filter",
+                "file": "Shure SE846 White Filter"
+            }
+        ]
+    },
+    {
+        "name": "Signature Acoustic Elements",
+        "phones": [
+            {
+                "index": 154,
+                "name": "C12",
+                "file": "Signature Acoustic Elements C12"
+            }
+        ]
+    },
+    {
+        "name": "Skullcandy",
+        "phones": [
+            {
+                "index": 155,
+                "name": "Holua",
+                "file": "Skullcandy Holua"
+            }
+        ]
+    },
+    {
+        "name": "Sony",
+        "phones": [
+            {
+                "index": 156,
+                "name": "MDR-7550",
+                "file": "Sony MDR-7550"
+            },
+            {
+                "index": 156,
+                "name": "MDR-EX1000",
+                "file": "Sony MDR-EX1000"
+            },
+            {
+                "index": 156,
+                "name": "MDR-EX600",
+                "file": "Sony MDR-EX600"
+            },
+            {
+                "index": 156,
+                "name": "MH1C",
+                "file": "Sony MH1C"
+            },
+            {
+                "index": 156,
+                "name": "XBA-Z5",
+                "file": "Sony XBA-Z5"
+            }
+        ]
+    },
+    {
+        "name": "Spider",
+        "phones": [
+            {
+                "index": 159,
+                "name": "realvoice",
+                "file": "Spider realvoice"
+            }
+        ]
+    },
+    {
+        "name": "Stax",
+        "phones": [
+            {
+                "index": 162,
+                "name": "SR-003 #SA-1993",
+                "file": "Stax SR-003 #SA-1993"
+            }
+        ]
+    },
+    {
+        "name": "Steelseries",
+        "phones": [
+            {
+                "index": 163,
+                "name": "Flux In-Ear",
+                "file": "Steelseries Flux In-Ear"
+            },
+            {
+                "index": 163,
+                "name": "Flux In-Ear Pro",
+                "file": "Steelseries Flux In-Ear Pro"
+            }
+        ]
+    },
+    {
+        "name": "Syun",
+        "phones": [
+            {
+                "index": 167,
+                "name": "ME1 Gold",
+                "file": "Syun ME1 Gold"
+            },
+            {
+                "index": 167,
+                "name": "Mix1 Gold",
+                "file": "Syun Mix1 Gold"
+            }
+        ]
+    },
+    {
+        "name": "T-Peos",
+        "phones": [
+            {
+                "index": 168,
+                "name": "Altone",
+                "file": "T-Peos Altone"
+            },
+            {
+                "index": 168,
+                "name": "H100",
+                "file": "T-Peos H100"
+            },
+            {
+                "index": 168,
+                "name": "Popular",
+                "file": "T-Peos Popular"
+            },
+            {
+                "index": 168,
+                "name": "Rich 200",
+                "file": "T-Peos Rich 200"
+            }
+        ]
+    },
+    {
+        "name": "TDK",
+        "phones": [
+            {
+                "index": 169,
+                "name": "BA200",
+                "file": "TDK BA200"
+            },
+            {
+                "index": 169,
+                "name": "MT300",
+                "file": "TDK MT300"
+            }
+        ]
+    },
+    {
+        "name": "Tekfusion",
+        "phones": [
+            {
+                "index": 175,
+                "name": "Ecoofers",
+                "file": "Tekfusion Ecoofers"
+            },
+            {
+                "index": 175,
+                "name": "Twinwoofers",
+                "file": "Tekfusion Twinwoofers"
+            }
+        ]
+    },
+    {
+        "name": "Thermaltake",
+        "phones": [
+            {
+                "index": 176,
+                "name": "Isurus",
+                "file": "Thermaltake Isurus"
+            }
+        ]
+    },
+    {
+        "name": "Torque",
+        "phones": [
+            {
+                "index": 177,
+                "name": "t096z Bass Boost Filter",
+                "file": "Torque t096z Bass Boost Filter"
+            },
+            {
+                "index": 177,
+                "name": "t096z Flat Filter",
+                "file": "Torque t096z Flat Filter"
+            },
+            {
+                "index": 177,
+                "name": "t096z Mid-Centric Filter",
+                "file": "Torque t096z Mid-Centric Filter"
+            },
+            {
+                "index": 177,
+                "name": "t096z Treble Boost Filter",
+                "file": "Torque t096z Treble Boost Filter"
+            },
+            {
+                "index": 177,
+                "name": "t096z U-Shaped Filter",
+                "file": "Torque t096z U-Shaped Filter"
+            },
+            {
+                "index": 177,
+                "name": "t096z Warm Tilt Filter",
+                "file": "Torque t096z Warm Tilt Filter"
+            },
+            {
+                "index": 177,
+                "name": "t130z Clear Filter",
+                "file": "Torque t130z Clear Filter"
+            },
+            {
+                "index": 177,
+                "name": "t130z Deep Filter",
+                "file": "Torque t130z Deep Filter"
+            },
+            {
+                "index": 177,
+                "name": "t130z Reference Filter",
+                "file": "Torque t130z Reference Filter"
+            }
+        ]
+    },
+    {
+        "name": "UBSound",
+        "phones": [
+            {
+                "index": 180,
+                "name": "Fighter",
+                "file": "UBSound Fighter"
+            }
+        ]
+    },
+    {
+        "name": "Ultimate Ears",
+        "phones": [
+            {
+                "index": 181,
+                "name": "Triple-Fi 10",
+                "file": "Ultimate Ears Triple-Fi 10"
+            },
+            {
+                "index": 181,
+                "name": "UE350",
+                "file": "Ultimate Ears UE350"
+            },
+            {
+                "index": 181,
+                "name": "UE500",
+                "file": "Ultimate Ears UE500"
+            },
+            {
+                "index": 181,
+                "name": "UE600",
+                "file": "Ultimate Ears UE600"
+            },
+            {
+                "index": 181,
+                "name": "UE700",
+                "file": "Ultimate Ears UE700"
+            }
+        ]
+    },
+    {
+        "name": "Umi",
+        "phones": [
+            {
+                "index": 183,
+                "name": "Voix",
+                "file": "Umi Voix"
+            }
+        ]
+    },
+    {
+        "name": "Unique",
+        "phones": [
+            {
+                "index": 184,
+                "name": "Melody 3X",
+                "file": "Unique Melody 3X"
+            }
+        ]
+    },
+    {
+        "name": "V-Sonic",
+        "phones": [
+            {
+                "index": 186,
+                "name": "GR02 Bass Edition",
+                "file": "V-Sonic GR02 Bass Edition"
+            },
+            {
+                "index": 186,
+                "name": "GR07 Bass Edition",
+                "file": "V-Sonic GR07 Bass Edition"
+            },
+            {
+                "index": 186,
+                "name": "GR07 Classic",
+                "file": "V-Sonic GR07 Classic"
+            },
+            {
+                "index": 186,
+                "name": "GR07",
+                "file": "V-Sonic GR07"
+            },
+            {
+                "index": 186,
+                "name": "VC1000",
+                "file": "V-Sonic VC1000"
+            },
+            {
+                "index": 186,
+                "name": "VCO2",
+                "file": "V-Sonic VCO2"
+            },
+            {
+                "index": 186,
+                "name": "VSD1",
+                "file": "V-Sonic VSD1"
+            },
+            {
+                "index": 186,
+                "name": "VSD1S",
+                "file": "V-Sonic VSD1S"
+            },
+            {
+                "index": 186,
+                "name": "VSD3",
+                "file": "V-Sonic VSD3"
+            },
+            {
+                "index": 186,
+                "name": "VSD3S",
+                "file": "V-Sonic VSD3S"
+            },
+            {
+                "index": 186,
+                "name": "VSD3S with Replaceable Cables",
+                "file": "V-Sonic VSD3S with Replaceable Cables"
+            },
+            {
+                "index": 186,
+                "name": "VSD5",
+                "file": "V-Sonic VSD5"
+            }
+        ]
+    },
+    {
+        "name": "Velodyne",
+        "phones": [
+            {
+                "index": 187,
+                "name": "vPulse",
+                "file": "Velodyne vPulse"
+            }
+        ]
+    },
+    {
+        "name": "Venture Electronics",
+        "phones": [
+            {
+                "index": 189,
+                "name": "Duke",
+                "file": "Venture Electronics Duke"
+            }
+        ]
+    },
+    {
+        "name": "ViSang",
+        "phones": [
+            {
+                "index": 190,
+                "name": "VS-K1",
+                "file": "ViSang VS-K1"
+            }
+        ]
+    },
+    {
+        "name": "Westone",
+        "phones": [
+            {
+                "index": 191,
+                "name": "4R",
+                "file": "Westone 4R"
+            }
+        ]
+    },
+    {
+        "name": "Wicked Audio",
+        "phones": [
+            {
+                "index": 192,
+                "name": "Deuce",
+                "file": "Wicked Audio Deuce"
+            }
+        ]
+    },
+    {
+        "name": "XTZ",
+        "phones": [
+            {
+                "index": 195,
+                "name": "EarPhone-12",
+                "file": "XTZ EarPhone-12"
+            }
+        ]
+    },
+    {
+        "name": "Xiaomi",
+        "phones": [
+            {
+                "index": 197,
+                "name": "Crystal",
+                "file": "Xiaomi Crystal"
+            },
+            {
+                "index": 197,
+                "name": "Hybrid",
+                "file": "Xiaomi Hybrid"
+            },
+            {
+                "index": 197,
+                "name": "Piston2",
+                "file": "Xiaomi Piston2"
+            },
+            {
+                "index": 197,
+                "name": "Piston3",
+                "file": "Xiaomi Piston3"
+            },
+            {
+                "index": 197,
+                "name": "Piston3 Youth Edition",
+                "file": "Xiaomi Piston3 Youth Edition"
+            }
+        ]
+    },
+    {
+        "name": "Yamaha",
+        "phones": [
+            {
+                "index": 198,
+                "name": "YH-5M",
+                "file": "Yamaha YH-5M"
+            }
+        ]
+    },
+    {
+        "name": "Yutai",
+        "phones": [
+            {
+                "index": 200,
+                "name": "BAS02",
+                "file": "Yutai BAS02"
+            }
+        ]
+    },
+    {
+        "name": "Zipbuds",
+        "phones": [
+            {
+                "index": 201,
+                "name": "Pro Mic",
+                "file": "Zipbuds Pro Mic"
+            }
+        ]
+    },
+    {
+        "name": "Zoukbox",
+        "phones": [
+            {
+                "index": 202,
+                "name": "ZDY10 Bass",
+                "file": "Zoukbox ZDY10 Bass"
+            },
+            {
+                "index": 202,
+                "name": "ZLX30",
+                "file": "Zoukbox ZLX30"
+            }
+        ]
+    },
+    {
+        "name": "iHarmonix",
+        "phones": [
+            {
+                "index": 204,
+                "name": "Platinume v-Series",
+                "file": "iHarmonix Platinume v-Series"
+            }
+        ]
+    },
+    {
+        "name": "iMetal",
+        "phones": [
+            {
+                "index": 205,
+                "name": "iM590",
+                "file": "iMetal iM590"
+            }
+        ]
+    },
+    {
+        "name": "thinksound",
+        "phones": [
+            {
+                "index": 206,
+                "name": "Rain 2",
+                "file": "thinksound Rain 2"
+            },
+            {
+                "index": 206,
+                "name": "TS01",
+                "file": "thinksound TS01"
+            }
+        ]
+    }
+]
