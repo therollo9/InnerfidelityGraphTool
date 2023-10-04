@@ -95,21 +95,21 @@
         ]
     },
     {
-        "name": "Astro",
+        "name": "Astrotec",
         "phones": [
             {
                 "index": 14,
-                "name": "tec AM90",
+                "name": "AM90",
                 "file": "Astrotec AM90"
             },
             {
                 "index": 14,
-                "name": "tec AX35",
+                "name": "AX35",
                 "file": "Astrotec AX35"
             },
             {
                 "index": 14,
-                "name": "tec AX7",
+                "name": "AX7",
                 "file": "Astrotec AX7"
             }
         ]
